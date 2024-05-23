@@ -1,0 +1,2278 @@
+city,date,residents_1000
+Jelenia Góra,1995,93.46
+Jelenia Góra,1996,93.57
+Jelenia Góra,1997,93.4
+Jelenia Góra,1998,93.9
+Jelenia Góra,1999,90.57
+Jelenia Góra,2000,90.13
+Jelenia Góra,2001,89.56
+Jelenia Góra,2002,88.87
+Jelenia Góra,2003,88.03
+Jelenia Góra,2004,87.64
+Jelenia Góra,2005,87.02
+Jelenia Góra,2006,86.5
+Jelenia Góra,2007,85.78
+Jelenia Góra,2008,85.38
+Jelenia Góra,2009,84.56
+Jelenia Góra,2010,84.02
+Jelenia Góra,2011,83.46
+Jelenia Góra,2012,82.85
+Jelenia Góra,2013,81.99
+Jelenia Góra,2014,81.41
+Jelenia Góra,2015,81.01
+Jelenia Góra,2016,80.52
+Jelenia Góra,2017,80.07
+Jelenia Góra,2018,79.48
+Jelenia Góra,2019,79.06
+Jelenia Góra,2020,77.54
+Jelenia Góra,2021,76.57
+Jelenia Góra,2022,75.79
+Biała Podlaska,1995,56.45
+Biała Podlaska,1996,57.01
+Biała Podlaska,1997,57.61
+Biała Podlaska,1998,58.35
+Biała Podlaska,1999,57.54
+Biała Podlaska,2000,57.9
+Biała Podlaska,2001,58.27
+Biała Podlaska,2002,58.14
+Biała Podlaska,2003,57.83
+Biała Podlaska,2004,58.05
+Biała Podlaska,2005,58.08
+Biała Podlaska,2006,58.08
+Biała Podlaska,2007,57.78
+Biała Podlaska,2008,57.78
+Biała Podlaska,2009,57.88
+Biała Podlaska,2010,58.05
+Biała Podlaska,2011,58.0
+Biała Podlaska,2012,57.99
+Biała Podlaska,2013,57.66
+Biała Podlaska,2014,57.47
+Biała Podlaska,2015,57.41
+Biała Podlaska,2016,57.3
+Biała Podlaska,2017,57.55
+Biała Podlaska,2018,57.35
+Biała Podlaska,2019,57.17
+Biała Podlaska,2020,55.53
+Biała Podlaska,2021,55.1
+Biała Podlaska,2022,54.77
+Białystok,1995,7.01
+Białystok,1996,6.92
+Białystok,1997,6.9
+Białystok,1998,6.71
+Białystok,1999,6.41
+Białystok,2000,6.36
+Białystok,2001,6.37
+Białystok,2002,6.25
+Białystok,2003,6.2
+Białystok,2004,6.18
+Białystok,2005,6.14
+Białystok,2006,6.05
+Białystok,2007,5.97
+Białystok,2008,5.94
+Białystok,2009,5.87
+Białystok,2010,6.08
+Białystok,2011,5.97
+Białystok,2012,5.9
+Białystok,2013,5.85
+Białystok,2014,5.76
+Białystok,2015,5.7
+Białystok,2016,5.61
+Białystok,2017,5.54
+Białystok,2018,5.45
+Białystok,2019,5.35
+Białystok,2020,4.92
+Białystok,2021,4.81
+Białystok,2022,4.7
+Bielsko-Biała,1995,180.4
+Bielsko-Biała,1996,180.34
+Bielsko-Biała,1997,179.84
+Bielsko-Biała,1998,180.31
+Bielsko-Biała,1999,178.94
+Bielsko-Biała,2000,178.61
+Bielsko-Biała,2001,178.31
+Bielsko-Biała,2002,177.84
+Bielsko-Biała,2003,177.39
+Bielsko-Biała,2004,176.99
+Bielsko-Biała,2005,176.86
+Bielsko-Biała,2006,176.45
+Bielsko-Biała,2007,175.69
+Bielsko-Biała,2008,175.68
+Bielsko-Biała,2009,175.4
+Bielsko-Biała,2010,174.76
+Bielsko-Biała,2011,174.5
+Bielsko-Biała,2012,174.37
+Bielsko-Biała,2013,173.7
+Bielsko-Biała,2014,173.01
+Bielsko-Biała,2015,172.59
+Bielsko-Biała,2016,172.03
+Bielsko-Biała,2017,171.51
+Bielsko-Biała,2018,171.26
+Bielsko-Biała,2019,170.66
+Bielsko-Biała,2020,169.55
+Bielsko-Biała,2021,168.11
+Bielsko-Biała,2022,166.77
+Bydgoszcz,1995,386.06
+Bydgoszcz,1996,386.59
+Bydgoszcz,1997,386.27
+Bydgoszcz,1998,386.86
+Bydgoszcz,1999,377.41
+Bydgoszcz,2000,375.68
+Bydgoszcz,2001,374.35
+Bydgoszcz,2002,372.1
+Bydgoszcz,2003,370.25
+Bydgoszcz,2004,368.24
+Bydgoszcz,2005,366.07
+Bydgoszcz,2006,363.47
+Bydgoszcz,2007,361.22
+Bydgoszcz,2008,358.93
+Bydgoszcz,2009,357.65
+Bydgoszcz,2010,364.44
+Bydgoszcz,2011,363.02
+Bydgoszcz,2012,361.25
+Bydgoszcz,2013,359.43
+Bydgoszcz,2014,357.65
+Bydgoszcz,2015,355.65
+Bydgoszcz,2016,353.94
+Bydgoszcz,2017,352.31
+Bydgoszcz,2018,350.18
+Bydgoszcz,2019,348.19
+Bydgoszcz,2020,339.07
+Bydgoszcz,2021,334.03
+Bydgoszcz,2022,330.04
+Cieszyn,1995,37.36
+Cieszyn,1996,37.55
+Cieszyn,1997,37.73
+Cieszyn,1998,37.6
+Cieszyn,1999,36.41
+Cieszyn,2000,36.69
+Cieszyn,2001,36.7
+Cieszyn,2002,36.39
+Cieszyn,2003,36.35
+Cieszyn,2004,36.11
+Cieszyn,2005,36.08
+Cieszyn,2006,35.64
+Cieszyn,2007,35.4
+Cieszyn,2008,35.31
+Cieszyn,2009,35.4
+Cieszyn,2010,36.29
+Cieszyn,2011,36.18
+Cieszyn,2012,36.12
+Cieszyn,2013,35.92
+Cieszyn,2014,35.69
+Cieszyn,2015,35.27
+Cieszyn,2016,35.1
+Cieszyn,2017,34.88
+Cieszyn,2018,34.61
+Cieszyn,2019,34.42
+Cieszyn,2020,34.08
+Cieszyn,2021,33.6
+Cieszyn,2022,33.25
+Częstochowa,1995,259.14
+Częstochowa,1996,258.89
+Częstochowa,1997,258.19
+Częstochowa,1998,257.81
+Częstochowa,1999,254.07
+Częstochowa,2000,253.13
+Częstochowa,2001,251.93
+Częstochowa,2002,250.86
+Częstochowa,2003,249.45
+Częstochowa,2004,248.03
+Częstochowa,2005,246.89
+Częstochowa,2006,245.03
+Częstochowa,2007,242.3
+Częstochowa,2008,240.61
+Częstochowa,2009,239.32
+Częstochowa,2010,237.2
+Częstochowa,2011,235.8
+Częstochowa,2012,234.47
+Częstochowa,2013,232.32
+Częstochowa,2014,230.12
+Częstochowa,2015,228.18
+Częstochowa,2016,226.23
+Częstochowa,2017,224.38
+Częstochowa,2018,222.29
+Częstochowa,2019,220.43
+Częstochowa,2020,213.94
+Częstochowa,2021,210.77
+Częstochowa,2022,208.28
+Dąbrowa Górnicza,1995,130.45
+Dąbrowa Górnicza,1996,131.69
+Dąbrowa Górnicza,1997,131.39
+Dąbrowa Górnicza,1998,131.04
+Dąbrowa Górnicza,1999,133.49
+Dąbrowa Górnicza,2000,132.86
+Dąbrowa Górnicza,2001,132.36
+Dąbrowa Górnicza,2002,131.86
+Dąbrowa Górnicza,2003,131.37
+Dąbrowa Górnicza,2004,130.79
+Dąbrowa Górnicza,2005,130.13
+Dąbrowa Górnicza,2006,129.56
+Dąbrowa Górnicza,2007,128.8
+Dąbrowa Górnicza,2008,128.32
+Dąbrowa Górnicza,2009,127.69
+Dąbrowa Górnicza,2010,126.08
+Dąbrowa Górnicza,2011,125.48
+Dąbrowa Górnicza,2012,124.7
+Dąbrowa Górnicza,2013,123.99
+Dąbrowa Górnicza,2014,123.38
+Dąbrowa Górnicza,2015,122.71
+Dąbrowa Górnicza,2016,121.8
+Dąbrowa Górnicza,2017,121.12
+Dąbrowa Górnicza,2018,120.26
+Dąbrowa Górnicza,2019,119.37
+Dąbrowa Górnicza,2020,117.26
+Dąbrowa Górnicza,2021,115.96
+Dąbrowa Górnicza,2022,114.77
+Dębica,1995,4.13
+Dębica,1996,4.15
+Dębica,1997,4.16
+Dębica,1998,4.13
+Dębica,1999,4.16
+Dębica,2000,4.14
+Dębica,2001,4.17
+Dębica,2002,4.18
+Dębica,2003,4.18
+Dębica,2004,4.17
+Dębica,2005,4.18
+Dębica,2006,4.16
+Dębica,2007,4.12
+Dębica,2008,4.15
+Dębica,2009,4.14
+Dębica,2010,4.15
+Dębica,2011,4.14
+Dębica,2012,4.13
+Dębica,2013,4.1
+Dębica,2014,4.07
+Dębica,2015,4.04
+Dębica,2016,4.02
+Dębica,2017,3.98
+Dębica,2018,3.95
+Dębica,2019,3.93
+Dębica,2020,3.74
+Dębica,2021,3.7
+Dębica,2022,3.7
+Dzierżoniów,1995,38.07
+Dzierżoniów,1996,38.1
+Dzierżoniów,1997,37.99
+Dzierżoniów,1998,37.75
+Dzierżoniów,1999,35.79
+Dzierżoniów,2000,35.7
+Dzierżoniów,2001,35.55
+Dzierżoniów,2002,35.33
+Dzierżoniów,2003,35.16
+Dzierżoniów,2004,34.88
+Dzierżoniów,2005,34.81
+Dzierżoniów,2006,34.54
+Dzierżoniów,2007,34.47
+Dzierżoniów,2008,34.26
+Dzierżoniów,2009,34.17
+Dzierżoniów,2010,35.02
+Dzierżoniów,2011,34.84
+Dzierżoniów,2012,34.68
+Dzierżoniów,2013,34.43
+Dzierżoniów,2014,34.17
+Dzierżoniów,2015,33.95
+Dzierżoniów,2016,33.79
+Dzierżoniów,2017,33.65
+Dzierżoniów,2018,33.34
+Dzierżoniów,2019,33.14
+Dzierżoniów,2020,32.0
+Dzierżoniów,2021,31.48
+Dzierżoniów,2022,31.06
+Gdańsk,1995,463.02
+Gdańsk,1996,462.34
+Gdańsk,1997,461.35
+Gdańsk,1998,458.99
+Gdańsk,1999,464.36
+Gdańsk,2000,463.0
+Gdańsk,2001,461.89
+Gdańsk,2002,461.65
+Gdańsk,2003,461.01
+Gdańsk,2004,459.07
+Gdańsk,2005,458.05
+Gdańsk,2006,456.66
+Gdańsk,2007,455.72
+Gdańsk,2008,455.58
+Gdańsk,2009,456.59
+Gdańsk,2010,460.51
+Gdańsk,2011,460.52
+Gdańsk,2012,460.43
+Gdańsk,2013,461.53
+Gdańsk,2014,461.49
+Gdańsk,2015,462.25
+Gdańsk,2016,463.75
+Gdańsk,2017,464.25
+Gdańsk,2018,466.63
+Gdańsk,2019,470.91
+Gdańsk,2020,486.54
+Gdańsk,2021,486.27
+Gdańsk,2022,486.35
+Gdynia,1995,251.63
+Gdynia,1996,251.93
+Gdynia,1997,251.59
+Gdynia,1998,253.52
+Gdynia,1999,252.99
+Gdynia,2000,253.39
+Gdynia,2001,253.36
+Gdynia,2002,253.51
+Gdynia,2003,253.5
+Gdynia,2004,253.32
+Gdynia,2005,252.79
+Gdynia,2006,251.84
+Gdynia,2007,250.24
+Gdynia,2008,249.26
+Gdynia,2009,247.86
+Gdynia,2010,249.46
+Gdynia,2011,248.94
+Gdynia,2012,248.73
+Gdynia,2013,248.04
+Gdynia,2014,247.82
+Gdynia,2015,247.48
+Gdynia,2016,246.99
+Gdynia,2017,246.31
+Gdynia,2018,246.31
+Gdynia,2019,246.35
+Gdynia,2020,245.74
+Gdynia,2021,244.68
+Gdynia,2022,242.87
+Gliwice,1995,213.39
+Gliwice,1996,213.4
+Gliwice,1997,212.78
+Gliwice,1998,212.16
+Gliwice,1999,206.55
+Gliwice,2000,205.09
+Gliwice,2001,204.18
+Gliwice,2002,202.6
+Gliwice,2003,201.59
+Gliwice,2004,200.36
+Gliwice,2005,199.45
+Gliwice,2006,198.5
+Gliwice,2007,197.39
+Gliwice,2008,196.67
+Gliwice,2009,196.17
+Gliwice,2010,187.83
+Gliwice,2011,186.87
+Gliwice,2012,186.21
+Gliwice,2013,185.45
+Gliwice,2014,184.42
+Gliwice,2015,183.39
+Gliwice,2016,182.16
+Gliwice,2017,181.31
+Gliwice,2018,179.81
+Gliwice,2019,178.6
+Gliwice,2020,174.58
+Gliwice,2021,172.63
+Gliwice,2022,171.02
+Gorzów Wielkopolski,1995,124.78
+Gorzów Wielkopolski,1996,125.29
+Gorzów Wielkopolski,1997,125.74
+Gorzów Wielkopolski,1998,126.02
+Gorzów Wielkopolski,1999,125.89
+Gorzów Wielkopolski,2000,125.77
+Gorzów Wielkopolski,2001,125.82
+Gorzów Wielkopolski,2002,125.47
+Gorzów Wielkopolski,2003,125.78
+Gorzów Wielkopolski,2004,125.58
+Gorzów Wielkopolski,2005,125.42
+Gorzów Wielkopolski,2006,125.5
+Gorzów Wielkopolski,2007,125.41
+Gorzów Wielkopolski,2008,125.16
+Gorzów Wielkopolski,2009,125.38
+Gorzów Wielkopolski,2010,124.58
+Gorzów Wielkopolski,2011,124.55
+Gorzów Wielkopolski,2012,124.61
+Gorzów Wielkopolski,2013,124.34
+Gorzów Wielkopolski,2014,124.15
+Gorzów Wielkopolski,2015,123.76
+Gorzów Wielkopolski,2016,124.0
+Gorzów Wielkopolski,2017,124.3
+Gorzów Wielkopolski,2018,123.92
+Gorzów Wielkopolski,2019,123.61
+Gorzów Wielkopolski,2020,120.53
+Gorzów Wielkopolski,2021,118.01
+Gorzów Wielkopolski,2022,116.44
+Grudziądz,1995,103.0
+Grudziądz,1996,102.91
+Grudziądz,1997,102.83
+Grudziądz,1998,102.43
+Grudziądz,1999,101.03
+Grudziądz,2000,100.88
+Grudziądz,2001,100.4
+Grudziądz,2002,100.19
+Grudziądz,2003,100.02
+Grudziądz,2004,99.83
+Grudziądz,2005,99.58
+Grudziądz,2006,99.24
+Grudziądz,2007,99.09
+Grudziądz,2008,99.13
+Grudziądz,2009,99.07
+Grudziądz,2010,98.87
+Grudziądz,2011,98.44
+Grudziądz,2012,97.97
+Grudziądz,2013,97.68
+Grudziądz,2014,97.18
+Grudziądz,2015,96.32
+Grudziądz,2016,95.96
+Grudziądz,2017,95.63
+Grudziądz,2018,95.05
+Grudziądz,2019,94.37
+Grudziądz,2020,91.29
+Grudziądz,2021,90.28
+Grudziądz,2022,89.45
+Inowrocław,1995,79.24
+Inowrocław,1996,79.45
+Inowrocław,1997,79.57
+Inowrocław,1998,79.53
+Inowrocław,1999,78.35
+Inowrocław,2000,78.2
+Inowrocław,2001,78.03
+Inowrocław,2002,77.94
+Inowrocław,2003,77.89
+Inowrocław,2004,77.65
+Inowrocław,2005,77.31
+Inowrocław,2006,76.85
+Inowrocław,2007,76.49
+Inowrocław,2008,76.27
+Inowrocław,2009,76.14
+Inowrocław,2010,76.19
+Inowrocław,2011,75.94
+Inowrocław,2012,75.52
+Inowrocław,2013,75.0
+Inowrocław,2014,74.56
+Inowrocław,2015,74.26
+Inowrocław,2016,73.97
+Inowrocław,2017,73.58
+Inowrocław,2018,73.11
+Inowrocław,2019,72.56
+Inowrocław,2020,69.87
+Inowrocław,2021,68.91
+Inowrocław,2022,68.1
+Jarosław,1995,5.89
+Jarosław,1996,5.88
+Jarosław,1997,5.81
+Jarosław,1998,5.75
+Jarosław,1999,5.72
+Jarosław,2000,5.69
+Jarosław,2001,5.67
+Jarosław,2002,5.66
+Jarosław,2003,5.7
+Jarosław,2004,5.67
+Jarosław,2005,5.66
+Jarosław,2006,5.64
+Jarosław,2007,5.59
+Jarosław,2008,5.58
+Jarosław,2009,5.58
+Jarosław,2010,5.49
+Jarosław,2011,5.47
+Jarosław,2012,5.43
+Jarosław,2013,5.38
+Jarosław,2014,5.34
+Jarosław,2015,5.31
+Jarosław,2016,5.28
+Jarosław,2017,5.23
+Jarosław,2018,5.14
+Jarosław,2019,5.09
+Jarosław,2020,4.97
+Jarosław,2021,4.91
+Jarosław,2022,4.86
+Jasło,1995,38.8
+Jasło,1996,39.0
+Jasło,1997,39.09
+Jasło,1998,39.06
+Jasło,1999,38.11
+Jasło,2000,38.08
+Jasło,2001,37.98
+Jasło,2002,37.94
+Jasło,2003,37.88
+Jasło,2004,37.81
+Jasło,2005,37.81
+Jasło,2006,37.56
+Jasło,2007,37.34
+Jasło,2008,37.25
+Jasło,2009,37.1
+Jasło,2010,37.15
+Jasło,2011,36.92
+Jasło,2012,36.64
+Jasło,2013,36.36
+Jasło,2014,36.26
+Jasło,2015,36.0
+Jasło,2016,35.71
+Jasło,2017,35.45
+Jasło,2018,35.19
+Jasło,2019,34.88
+Jasło,2020,33.96
+Jasło,2021,33.46
+Jasło,2022,33.1
+Jastrzębie-Zdrój,1995,103.31
+Jastrzębie-Zdrój,1996,103.18
+Jastrzębie-Zdrój,1997,102.78
+Jastrzębie-Zdrój,1998,102.29
+Jastrzębie-Zdrój,1999,98.0
+Jastrzębie-Zdrój,2000,97.54
+Jastrzębie-Zdrój,2001,97.16
+Jastrzębie-Zdrój,2002,96.82
+Jastrzębie-Zdrój,2003,96.48
+Jastrzębie-Zdrój,2004,96.01
+Jastrzębie-Zdrój,2005,95.48
+Jastrzębie-Zdrój,2006,94.72
+Jastrzębie-Zdrój,2007,93.94
+Jastrzębie-Zdrój,2008,93.55
+Jastrzębie-Zdrój,2009,92.99
+Jastrzębie-Zdrój,2010,92.62
+Jastrzębie-Zdrój,2011,92.11
+Jastrzębie-Zdrój,2012,91.72
+Jastrzębie-Zdrój,2013,91.24
+Jastrzębie-Zdrój,2014,90.79
+Jastrzębie-Zdrój,2015,90.28
+Jastrzębie-Zdrój,2016,89.88
+Jastrzębie-Zdrój,2017,89.59
+Jastrzębie-Zdrój,2018,89.13
+Jastrzębie-Zdrój,2019,88.74
+Jastrzębie-Zdrój,2020,85.39
+Jastrzębie-Zdrój,2021,83.99
+Jastrzębie-Zdrój,2022,83.14
+Kalisz,1995,106.71
+Kalisz,1996,106.75
+Kalisz,1997,106.72
+Kalisz,1998,106.64
+Kalisz,1999,108.58
+Kalisz,2000,110.1
+Kalisz,2001,109.68
+Kalisz,2002,109.39
+Kalisz,2003,108.92
+Kalisz,2004,108.79
+Kalisz,2005,108.84
+Kalisz,2006,108.48
+Kalisz,2007,108.03
+Kalisz,2008,107.14
+Kalisz,2009,107.02
+Kalisz,2010,105.57
+Kalisz,2011,105.12
+Kalisz,2012,104.68
+Kalisz,2013,104.0
+Kalisz,2014,103.37
+Kalisz,2015,102.81
+Kalisz,2016,102.25
+Kalisz,2017,101.63
+Kalisz,2018,100.98
+Kalisz,2019,100.25
+Kalisz,2020,96.22
+Kalisz,2021,95.02
+Kalisz,2022,93.97
+Katowice,1995,351.52
+Katowice,1996,350.97
+Katowice,1997,348.97
+Katowice,1998,345.93
+Katowice,1999,333.24
+Katowice,2000,330.63
+Katowice,2001,328.1
+Katowice,2002,325.05
+Katowice,2003,322.29
+Katowice,2004,319.9
+Katowice,2005,317.22
+Katowice,2006,314.5
+Katowice,2007,312.2
+Katowice,2008,309.62
+Katowice,2009,308.55
+Katowice,2010,311.42
+Katowice,2011,309.3
+Katowice,2012,307.23
+Katowice,2013,304.36
+Katowice,2014,301.83
+Katowice,2015,299.91
+Katowice,2016,298.11
+Katowice,2017,296.26
+Katowice,2018,294.51
+Katowice,2019,292.77
+Katowice,2020,286.37
+Katowice,2021,282.76
+Katowice,2022,280.19
+Kielce,1995,213.78
+Kielce,1996,213.75
+Kielce,1997,212.6
+Kielce,1998,212.38
+Kielce,1999,214.24
+Kielce,2000,213.47
+Kielce,2001,212.76
+Kielce,2002,211.81
+Kielce,2003,210.64
+Kielce,2004,209.46
+Kielce,2005,208.19
+Kielce,2006,207.19
+Kielce,2007,205.9
+Kielce,2008,205.09
+Kielce,2009,204.84
+Kielce,2010,202.45
+Kielce,2011,201.82
+Kielce,2012,200.94
+Kielce,2013,199.87
+Kielce,2014,198.86
+Kielce,2015,198.05
+Kielce,2016,197.7
+Kielce,2017,196.8
+Kielce,2018,195.77
+Kielce,2019,194.85
+Kielce,2020,187.43
+Kielce,2021,185.48
+Kielce,2022,183.89
+Kłodzko,1995,30.86
+Kłodzko,1996,30.72
+Kłodzko,1997,30.54
+Kłodzko,1998,30.28
+Kłodzko,1999,29.35
+Kłodzko,2000,29.36
+Kłodzko,2001,29.26
+Kłodzko,2002,29.03
+Kłodzko,2003,28.68
+Kłodzko,2004,28.54
+Kłodzko,2005,28.36
+Kłodzko,2006,28.15
+Kłodzko,2007,28.08
+Kłodzko,2008,28.03
+Kłodzko,2009,27.94
+Kłodzko,2010,28.78
+Kłodzko,2011,28.58
+Kłodzko,2012,28.36
+Kłodzko,2013,28.0
+Kłodzko,2014,27.79
+Kłodzko,2015,27.66
+Kłodzko,2016,27.4
+Kłodzko,2017,27.19
+Kłodzko,2018,26.95
+Kłodzko,2019,26.74
+Kłodzko,2020,25.87
+Kłodzko,2021,25.44
+Kłodzko,2022,25.11
+Konin,1995,9.66
+Konin,1996,9.69
+Konin,1997,9.69
+Konin,1998,9.76
+Konin,1999,9.52
+Konin,2000,9.55
+Konin,2001,9.54
+Konin,2002,9.57
+Konin,2003,9.62
+Konin,2004,9.65
+Konin,2005,9.7
+Konin,2006,9.7
+Konin,2007,9.76
+Konin,2008,9.77
+Konin,2009,9.76
+Konin,2010,10.02
+Konin,2011,10.04
+Konin,2012,10.05
+Konin,2013,10.11
+Konin,2014,10.06
+Konin,2015,10.05
+Konin,2016,10.06
+Konin,2017,9.98
+Konin,2018,10.01
+Konin,2019,9.93
+Konin,2020,9.7
+Konin,2021,9.59
+Konin,2022,9.52
+Konstancin-Jeziorna,1995,22.15
+Konstancin-Jeziorna,1996,22.28
+Konstancin-Jeziorna,1997,22.53
+Konstancin-Jeziorna,1998,22.81
+Konstancin-Jeziorna,1999,22.31
+Konstancin-Jeziorna,2000,22.46
+Konstancin-Jeziorna,2001,22.46
+Konstancin-Jeziorna,2002,22.64
+Konstancin-Jeziorna,2003,22.84
+Konstancin-Jeziorna,2004,22.98
+Konstancin-Jeziorna,2005,23.18
+Konstancin-Jeziorna,2006,23.34
+Konstancin-Jeziorna,2007,23.5
+Konstancin-Jeziorna,2008,23.67
+Konstancin-Jeziorna,2009,23.81
+Konstancin-Jeziorna,2010,24.84
+Konstancin-Jeziorna,2011,24.82
+Konstancin-Jeziorna,2012,24.9
+Konstancin-Jeziorna,2013,24.81
+Konstancin-Jeziorna,2014,24.79
+Konstancin-Jeziorna,2015,24.76
+Konstancin-Jeziorna,2016,24.77
+Konstancin-Jeziorna,2017,24.78
+Konstancin-Jeziorna,2018,24.72
+Konstancin-Jeziorna,2019,24.73
+Konstancin-Jeziorna,2020,25.29
+Konstancin-Jeziorna,2021,25.17
+Konstancin-Jeziorna,2022,25.15
+Kościerzyna,1995,23.17
+Kościerzyna,1996,23.28
+Kościerzyna,1997,23.39
+Kościerzyna,1998,23.5
+Kościerzyna,1999,22.83
+Kościerzyna,2000,22.92
+Kościerzyna,2001,23.06
+Kościerzyna,2002,23.22
+Kościerzyna,2003,23.2
+Kościerzyna,2004,23.15
+Kościerzyna,2005,23.03
+Kościerzyna,2006,23.03
+Kościerzyna,2007,23.02
+Kościerzyna,2008,22.98
+Kościerzyna,2009,23.1
+Kościerzyna,2010,23.76
+Kościerzyna,2011,23.78
+Kościerzyna,2012,23.78
+Kościerzyna,2013,23.7
+Kościerzyna,2014,23.74
+Kościerzyna,2015,23.74
+Kościerzyna,2016,23.85
+Kościerzyna,2017,23.81
+Kościerzyna,2018,23.76
+Kościerzyna,2019,23.74
+Kościerzyna,2020,23.75
+Kościerzyna,2021,23.52
+Kościerzyna,2022,23.41
+Koszalin,1995,111.48
+Koszalin,1996,111.91
+Koszalin,1997,112.1
+Koszalin,1998,112.38
+Koszalin,1999,109.94
+Koszalin,2000,108.9
+Koszalin,2001,108.58
+Koszalin,2002,108.48
+Koszalin,2003,107.88
+Koszalin,2004,107.77
+Koszalin,2005,107.89
+Koszalin,2006,107.69
+Koszalin,2007,107.38
+Koszalin,2008,107.15
+Koszalin,2009,106.99
+Koszalin,2010,109.3
+Koszalin,2011,109.23
+Koszalin,2012,109.34
+Koszalin,2013,109.17
+Koszalin,2014,108.61
+Koszalin,2015,107.97
+Koszalin,2016,107.68
+Koszalin,2017,107.67
+Koszalin,2018,107.32
+Koszalin,2019,107.05
+Koszalin,2020,106.15
+Koszalin,2021,104.89
+Koszalin,2022,104.24
+Kraków,1995,744.99
+Kraków,1996,740.68
+Kraków,1997,740.54
+Kraków,1998,740.67
+Kraków,1999,755.36
+Kraków,2000,758.72
+Kraków,2001,757.94
+Kraków,2002,757.55
+Kraków,2003,757.69
+Kraków,2004,757.43
+Kraków,2005,756.63
+Kraków,2006,756.27
+Kraków,2007,756.58
+Kraków,2008,754.62
+Kraków,2009,755.0
+Kraków,2010,757.74
+Kraków,2011,759.14
+Kraków,2012,758.33
+Kraków,2013,758.99
+Kraków,2014,761.87
+Kraków,2015,761.07
+Kraków,2016,765.32
+Kraków,2017,767.35
+Kraków,2018,771.07
+Kraków,2019,779.12
+Kraków,2020,800.53
+Kraków,2021,802.58
+Kraków,2022,803.28
+Krosno,1995,11.32
+Krosno,1996,11.26
+Krosno,1997,11.36
+Krosno,1998,11.36
+Krosno,1999,11.0
+Krosno,2000,11.01
+Krosno,2001,11.14
+Krosno,2002,11.23
+Krosno,2003,11.26
+Krosno,2004,11.27
+Krosno,2005,11.34
+Krosno,2006,11.38
+Krosno,2007,11.42
+Krosno,2008,11.48
+Krosno,2009,11.59
+Krosno,2010,11.73
+Krosno,2011,11.77
+Krosno,2012,11.92
+Krosno,2013,12.06
+Krosno,2014,12.05
+Krosno,2015,12.14
+Krosno,2016,12.17
+Krosno,2017,12.25
+Krosno,2018,12.22
+Krosno,2019,12.32
+Krosno,2020,12.03
+Krosno,2021,12.15
+Krosno,2022,12.22
+Lębork,1995,36.32
+Lębork,1996,36.59
+Lębork,1997,36.9
+Lębork,1998,37.03
+Lębork,1999,35.42
+Lębork,2000,35.37
+Lębork,2001,35.28
+Lębork,2002,35.22
+Lębork,2003,35.15
+Lębork,2004,35.15
+Lębork,2005,35.12
+Lębork,2006,34.99
+Lębork,2007,34.81
+Lębork,2008,34.68
+Lębork,2009,34.66
+Lębork,2010,35.82
+Lębork,2011,35.71
+Lębork,2012,35.59
+Lębork,2013,35.53
+Lębork,2014,35.44
+Lębork,2015,35.39
+Lębork,2016,35.38
+Lębork,2017,35.41
+Lębork,2018,35.37
+Lębork,2019,35.27
+Lębork,2020,34.6
+Lębork,2021,34.37
+Lębork,2022,34.16
+Legionowo,1995,50.65
+Legionowo,1996,50.78
+Legionowo,1997,50.81
+Legionowo,1998,50.99
+Legionowo,1999,49.92
+Legionowo,2000,50.27
+Legionowo,2001,50.36
+Legionowo,2002,50.46
+Legionowo,2003,50.48
+Legionowo,2004,50.6
+Legionowo,2005,50.57
+Legionowo,2006,51.03
+Legionowo,2007,51.06
+Legionowo,2008,51.45
+Legionowo,2009,51.65
+Legionowo,2010,53.43
+Legionowo,2011,53.75
+Legionowo,2012,54.11
+Legionowo,2013,54.23
+Legionowo,2014,54.27
+Legionowo,2015,54.17
+Legionowo,2016,54.14
+Legionowo,2017,54.04
+Legionowo,2018,54.07
+Legionowo,2019,53.89
+Legionowo,2020,53.3
+Legionowo,2021,53.0
+Legionowo,2022,52.79
+Legnica,1995,107.94
+Legnica,1996,108.46
+Legnica,1997,108.97
+Legnica,1998,109.34
+Legnica,1999,107.51
+Legnica,2000,107.42
+Legnica,2001,107.2
+Legnica,2002,106.9
+Legnica,2003,106.53
+Legnica,2004,106.14
+Legnica,2005,105.75
+Legnica,2006,105.19
+Legnica,2007,104.75
+Legnica,2008,104.49
+Legnica,2009,104.18
+Legnica,2010,103.42
+Legnica,2011,102.98
+Legnica,2012,102.42
+Legnica,2013,101.99
+Legnica,2014,101.34
+Legnica,2015,100.89
+Legnica,2016,100.72
+Legnica,2017,100.32
+Legnica,2018,99.75
+Legnica,2019,99.35
+Legnica,2020,95.14
+Legnica,2021,93.99
+Legnica,2022,93.04
+Łódź,1995,12.88
+Łódź,1996,12.92
+Łódź,1997,13.03
+Łódź,1998,13.14
+Łódź,1999,13.34
+Łódź,2000,13.41
+Łódź,2001,13.5
+Łódź,2002,13.56
+Łódź,2003,13.67
+Łódź,2004,13.75
+Łódź,2005,13.85
+Łódź,2006,13.98
+Łódź,2007,14.16
+Łódź,2008,14.29
+Łódź,2009,14.44
+Łódź,2010,14.45
+Łódź,2011,14.6
+Łódź,2012,14.76
+Łódź,2013,14.79
+Łódź,2014,14.9
+Łódź,2015,14.91
+Łódź,2016,14.97
+Łódź,2017,15.01
+Łódź,2018,15.03
+Łódź,2019,15.13
+Łódź,2020,15.35
+Łódź,2021,15.44
+Łódź,2022,15.5
+Łomża,1995,63.34
+Łomża,1996,63.76
+Łomża,1997,64.24
+Łomża,1998,64.61
+Łomża,1999,63.61
+Łomża,2000,63.81
+Łomża,2001,63.96
+Łomża,2002,63.9
+Łomża,2003,63.76
+Łomża,2004,63.88
+Łomża,2005,63.82
+Łomża,2006,63.39
+Łomża,2007,63.04
+Łomża,2008,63.3
+Łomża,2009,63.36
+Łomża,2010,63.24
+Łomża,2011,63.07
+Łomża,2012,62.81
+Łomża,2013,62.71
+Łomża,2014,62.78
+Łomża,2015,62.74
+Łomża,2016,62.8
+Łomża,2017,63.09
+Łomża,2018,63.0
+Łomża,2019,62.95
+Łomża,2020,61.03
+Łomża,2021,60.47
+Łomża,2022,60.13
+Lublin,1995,354.55
+Lublin,1996,355.42
+Lublin,1997,356.01
+Lublin,1998,356.25
+Lublin,1999,359.15
+Lublin,2000,358.93
+Lublin,2001,357.16
+Lublin,2002,358.35
+Lublin,2003,356.56
+Lublin,2004,356.0
+Lublin,2005,354.97
+Lublin,2006,353.48
+Lublin,2007,351.81
+Lublin,2008,350.46
+Lublin,2009,349.44
+Lublin,2010,349.48
+Lublin,2011,348.57
+Lublin,2012,347.68
+Lublin,2013,343.6
+Lublin,2014,341.72
+Lublin,2015,340.73
+Lublin,2016,340.47
+Lublin,2017,339.85
+Lublin,2018,339.68
+Lublin,2019,339.78
+Lublin,2020,335.11
+Lublin,2021,332.85
+Lublin,2022,331.24
+Lubliniec,1995,26.96
+Lubliniec,1996,26.98
+Lubliniec,1997,27.02
+Lubliniec,1998,27.17
+Lubliniec,1999,24.67
+Lubliniec,2000,24.66
+Lubliniec,2001,24.67
+Lubliniec,2002,24.46
+Lubliniec,2003,24.37
+Lubliniec,2004,24.36
+Lubliniec,2005,24.24
+Lubliniec,2006,24.17
+Lubliniec,2007,24.13
+Lubliniec,2008,23.99
+Lubliniec,2009,24.17
+Lubliniec,2010,24.39
+Lubliniec,2011,24.37
+Lubliniec,2012,24.39
+Lubliniec,2013,24.32
+Lubliniec,2014,24.18
+Lubliniec,2015,24.11
+Lubliniec,2016,23.98
+Lubliniec,2017,23.9
+Lubliniec,2018,23.82
+Lubliniec,2019,23.76
+Lubliniec,2020,23.72
+Lubliniec,2021,23.54
+Lubliniec,2022,23.43
+Malbork,1995,40.19
+Malbork,1996,40.3
+Malbork,1997,40.29
+Malbork,1998,40.26
+Malbork,1999,38.65
+Malbork,2000,38.59
+Malbork,2001,38.55
+Malbork,2002,38.66
+Malbork,2003,38.44
+Malbork,2004,38.75
+Malbork,2005,38.53
+Malbork,2006,38.3
+Malbork,2007,38.18
+Malbork,2008,38.16
+Malbork,2009,38.27
+Malbork,2010,39.39
+Malbork,2011,39.33
+Malbork,2012,39.25
+Malbork,2013,39.02
+Malbork,2014,38.95
+Malbork,2015,38.93
+Malbork,2016,38.85
+Malbork,2017,38.72
+Malbork,2018,38.57
+Malbork,2019,38.35
+Malbork,2020,37.74
+Malbork,2021,37.34
+Malbork,2022,37.05
+Mielec,1995,64.3
+Mielec,1996,64.37
+Mielec,1997,64.36
+Mielec,1998,64.45
+Mielec,1999,62.07
+Mielec,2000,61.86
+Mielec,2001,61.77
+Mielec,2002,61.46
+Mielec,2003,61.34
+Mielec,2004,61.29
+Mielec,2005,61.24
+Mielec,2006,61.12
+Mielec,2007,61.01
+Mielec,2008,60.98
+Mielec,2009,60.8
+Mielec,2010,61.59
+Mielec,2011,61.48
+Mielec,2012,61.24
+Mielec,2013,61.1
+Mielec,2014,60.83
+Mielec,2015,60.64
+Mielec,2016,60.5
+Mielec,2017,60.63
+Mielec,2018,60.48
+Mielec,2019,60.32
+Mielec,2020,58.36
+Mielec,2021,57.8
+Mielec,2022,57.36
+Nowa Ruda,1995,27.19
+Nowa Ruda,1996,27.05
+Nowa Ruda,1997,26.98
+Nowa Ruda,1998,26.81
+Nowa Ruda,1999,25.56
+Nowa Ruda,2000,25.36
+Nowa Ruda,2001,25.14
+Nowa Ruda,2002,25.01
+Nowa Ruda,2003,24.84
+Nowa Ruda,2004,24.7
+Nowa Ruda,2005,24.4
+Nowa Ruda,2006,24.17
+Nowa Ruda,2007,24.01
+Nowa Ruda,2008,23.81
+Nowa Ruda,2009,23.71
+Nowa Ruda,2010,24.0
+Nowa Ruda,2011,23.76
+Nowa Ruda,2012,23.48
+Nowa Ruda,2013,23.24
+Nowa Ruda,2014,23.03
+Nowa Ruda,2015,22.82
+Nowa Ruda,2016,22.64
+Nowa Ruda,2017,22.46
+Nowa Ruda,2018,22.25
+Nowa Ruda,2019,21.91
+Nowa Ruda,2020,21.4
+Nowa Ruda,2021,21.02
+Nowa Ruda,2022,20.67
+Nowy Sącz,1995,82.3
+Nowy Sącz,1996,82.88
+Nowy Sącz,1997,83.29
+Nowy Sącz,1998,83.75
+Nowy Sącz,1999,83.9
+Nowy Sącz,2000,84.37
+Nowy Sącz,2001,84.45
+Nowy Sącz,2002,84.42
+Nowy Sącz,2003,84.4
+Nowy Sącz,2004,84.46
+Nowy Sącz,2005,84.73
+Nowy Sącz,2006,84.49
+Nowy Sącz,2007,84.47
+Nowy Sącz,2008,84.48
+Nowy Sącz,2009,84.56
+Nowy Sącz,2010,84.37
+Nowy Sącz,2011,84.33
+Nowy Sącz,2012,84.13
+Nowy Sącz,2013,83.94
+Nowy Sącz,2014,83.85
+Nowy Sącz,2015,83.9
+Nowy Sącz,2016,83.99
+Nowy Sącz,2017,84.04
+Nowy Sącz,2018,83.9
+Nowy Sącz,2019,83.79
+Nowy Sącz,2020,81.44
+Nowy Sącz,2021,80.98
+Nowy Sącz,2022,80.59
+Nowy Targ,1995,34.02
+Nowy Targ,1996,34.1
+Nowy Targ,1997,34.28
+Nowy Targ,1998,34.33
+Nowy Targ,1999,33.06
+Nowy Targ,2000,33.09
+Nowy Targ,2001,33.02
+Nowy Targ,2002,33.26
+Nowy Targ,2003,33.26
+Nowy Targ,2004,33.35
+Nowy Targ,2005,33.46
+Nowy Targ,2006,33.48
+Nowy Targ,2007,33.41
+Nowy Targ,2008,33.34
+Nowy Targ,2009,33.43
+Nowy Targ,2010,33.81
+Nowy Targ,2011,33.8
+Nowy Targ,2012,33.8
+Nowy Targ,2013,33.67
+Nowy Targ,2014,33.6
+Nowy Targ,2015,33.51
+Nowy Targ,2016,33.41
+Nowy Targ,2017,33.36
+Nowy Targ,2018,33.37
+Nowy Targ,2019,33.29
+Nowy Targ,2020,33.3
+Nowy Targ,2021,33.13
+Nowy Targ,2022,33.1
+Nysa,1995,61.15
+Nysa,1996,61.29
+Nysa,1997,61.16
+Nysa,1998,60.97
+Nysa,1999,60.73
+Nysa,2000,60.62
+Nysa,2001,60.64
+Nysa,2002,60.62
+Nysa,2003,60.46
+Nysa,2004,60.31
+Nysa,2005,60.12
+Nysa,2006,59.97
+Nysa,2007,59.74
+Nysa,2008,59.33
+Nysa,2009,59.2
+Nysa,2010,58.76
+Nysa,2011,58.53
+Nysa,2012,58.4
+Nysa,2013,58.13
+Nysa,2014,58.0
+Nysa,2015,57.71
+Nysa,2016,57.64
+Nysa,2017,57.58
+Nysa,2018,57.27
+Nysa,2019,56.95
+Nysa,2020,55.3
+Nysa,2021,54.76
+Nysa,2022,54.26
+Oława,1995,31.88
+Oława,1996,31.87
+Oława,1997,31.91
+Oława,1998,31.91
+Oława,1999,31.01
+Oława,2000,31.05
+Oława,2001,31.14
+Oława,2002,31.15
+Oława,2003,31.07
+Oława,2004,31.08
+Oława,2005,30.9
+Oława,2006,30.87
+Oława,2007,30.87
+Oława,2008,30.85
+Oława,2009,30.9
+Oława,2010,31.81
+Oława,2011,31.96
+Oława,2012,32.09
+Oława,2013,32.24
+Oława,2014,32.36
+Oława,2015,32.57
+Oława,2016,32.77
+Oława,2017,32.88
+Oława,2018,32.93
+Oława,2019,33.11
+Oława,2020,33.3
+Oława,2021,33.2
+Oława,2022,33.15
+Olkusz,1995,52.85
+Olkusz,1996,52.9
+Olkusz,1997,52.96
+Olkusz,1998,52.72
+Olkusz,1999,51.02
+Olkusz,2000,50.89
+Olkusz,2001,50.79
+Olkusz,2002,50.65
+Olkusz,2003,50.46
+Olkusz,2004,50.37
+Olkusz,2005,50.31
+Olkusz,2006,50.24
+Olkusz,2007,50.07
+Olkusz,2008,50.04
+Olkusz,2009,49.94
+Olkusz,2010,50.52
+Olkusz,2011,50.37
+Olkusz,2012,50.23
+Olkusz,2013,50.02
+Olkusz,2014,49.8
+Olkusz,2015,49.52
+Olkusz,2016,49.48
+Olkusz,2017,49.31
+Olkusz,2018,49.03
+Olkusz,2019,48.6
+Olkusz,2020,47.11
+Olkusz,2021,46.61
+Olkusz,2022,46.08
+Oświęcim,1995,44.38
+Oświęcim,1996,44.29
+Oświęcim,1997,44.07
+Oświęcim,1998,43.86
+Oświęcim,1999,42.44
+Oświęcim,2000,42.35
+Oświęcim,2001,42.05
+Oświęcim,2002,41.79
+Oświęcim,2003,41.42
+Oświęcim,2004,41.38
+Oświęcim,2005,41.13
+Oświęcim,2006,40.81
+Oświęcim,2007,40.52
+Oświęcim,2008,40.33
+Oświęcim,2009,40.16
+Oświęcim,2010,40.47
+Oświęcim,2011,40.14
+Oświęcim,2012,39.89
+Oświęcim,2013,39.66
+Oświęcim,2014,39.44
+Oświęcim,2015,39.22
+Oświęcim,2016,38.97
+Oświęcim,2017,38.68
+Oświęcim,2018,38.3
+Oświęcim,2019,38.01
+Oświęcim,2020,37.12
+Oświęcim,2021,36.58
+Oświęcim,2022,36.05
+Otwock,1995,44.18
+Otwock,1996,44.17
+Otwock,1997,44.3
+Otwock,1998,44.36
+Otwock,1999,42.64
+Otwock,2000,42.64
+Otwock,2001,42.67
+Otwock,2002,42.74
+Otwock,2003,42.61
+Otwock,2004,42.77
+Otwock,2005,42.98
+Otwock,2006,43.39
+Otwock,2007,43.67
+Otwock,2008,43.95
+Otwock,2009,44.22
+Otwock,2010,44.74
+Otwock,2011,44.91
+Otwock,2012,44.94
+Otwock,2013,45.04
+Otwock,2014,45.03
+Otwock,2015,45.02
+Otwock,2016,44.91
+Otwock,2017,44.87
+Otwock,2018,44.88
+Otwock,2019,44.64
+Otwock,2020,44.57
+Otwock,2021,44.33
+Otwock,2022,44.1
+Pabianice,1995,6.33
+Pabianice,1996,6.25
+Pabianice,1997,6.3
+Pabianice,1998,6.29
+Pabianice,1999,6.19
+Pabianice,2000,6.17
+Pabianice,2001,6.11
+Pabianice,2002,6.08
+Pabianice,2003,6.06
+Pabianice,2004,6.07
+Pabianice,2005,6.03
+Pabianice,2006,5.97
+Pabianice,2007,5.95
+Pabianice,2008,5.93
+Pabianice,2009,5.94
+Pabianice,2010,5.97
+Pabianice,2011,5.99
+Pabianice,2012,6.0
+Pabianice,2013,5.99
+Pabianice,2014,5.99
+Pabianice,2015,5.97
+Pabianice,2016,5.96
+Pabianice,2017,5.98
+Pabianice,2018,5.96
+Pabianice,2019,5.98
+Pabianice,2020,5.91
+Pabianice,2021,5.87
+Pabianice,2022,5.86
+Piastów,1995,23.71
+Piastów,1996,23.64
+Piastów,1997,23.72
+Piastów,1998,23.77
+Piastów,1999,23.33
+Piastów,2000,23.48
+Piastów,2001,23.53
+Piastów,2002,23.48
+Piastów,2003,23.39
+Piastów,2004,23.33
+Piastów,2005,23.33
+Piastów,2006,23.29
+Piastów,2007,23.2
+Piastów,2008,23.08
+Piastów,2009,23.02
+Piastów,2010,22.97
+Piastów,2011,22.94
+Piastów,2012,22.91
+Piastów,2013,22.83
+Piastów,2014,22.87
+Piastów,2015,22.93
+Piastów,2016,22.73
+Piastów,2017,22.73
+Piastów,2018,22.66
+Piastów,2019,22.68
+Piastów,2020,23.39
+Piastów,2021,23.14
+Piastów,2022,23.07
+Piła,1995,4.79
+Piła,1996,4.82
+Piła,1997,4.89
+Piła,1998,4.92
+Piła,1999,4.87
+Piła,2000,4.84
+Piła,2001,4.84
+Piła,2002,4.79
+Piła,2003,4.77
+Piła,2004,4.8
+Piła,2005,4.8
+Piła,2006,4.8
+Piła,2007,4.76
+Piła,2008,4.77
+Piła,2009,4.74
+Piła,2010,4.77
+Piła,2011,4.78
+Piła,2012,4.75
+Piła,2013,4.73
+Piła,2014,4.74
+Płock,1995,127.17
+Płock,1996,127.67
+Płock,1997,130.6
+Płock,1998,131.01
+Płock,1999,128.65
+Płock,2000,128.58
+Płock,2001,128.36
+Płock,2002,128.21
+Płock,2003,128.15
+Płock,2004,127.84
+Płock,2005,127.46
+Płock,2006,127.22
+Płock,2007,126.97
+Płock,2008,126.71
+Płock,2009,126.54
+Płock,2010,124.69
+Płock,2011,124.32
+Płock,2012,123.63
+Płock,2013,122.82
+Płock,2014,122.22
+Płock,2015,121.73
+Płock,2016,121.3
+Płock,2017,120.79
+Płock,2018,120.0
+Płock,2019,119.43
+Płock,2020,114.97
+Płock,2021,113.66
+Płock,2022,112.48
+Poznań,1995,581.17
+Poznań,1996,580.83
+Poznań,1997,580.05
+Poznań,1998,578.24
+Poznań,1999,584.26
+Poznań,2000,582.25
+Poznań,2001,579.34
+Poznań,2002,577.12
+Poznań,2003,574.13
+Poznań,2004,570.78
+Poznań,2005,567.88
+Poznań,2006,564.95
+Poznań,2007,560.93
+Poznań,2008,557.26
+Poznań,2009,554.22
+Poznań,2010,555.61
+Poznań,2011,553.56
+Poznań,2012,550.74
+Poznań,2013,548.03
+Poznań,2014,545.68
+Poznań,2015,542.35
+Poznań,2016,540.37
+Poznań,2017,538.63
+Poznań,2018,536.44
+Poznań,2019,534.81
+Poznań,2020,547.78
+Poznań,2021,545.07
+Poznań,2022,541.32
+Przemyśl,1995,8.85
+Przemyśl,1996,8.85
+Przemyśl,1997,8.86
+Przemyśl,1998,8.85
+Przemyśl,1999,8.57
+Przemyśl,2000,8.55
+Przemyśl,2001,8.55
+Przemyśl,2002,8.57
+Przemyśl,2003,8.64
+Przemyśl,2004,8.62
+Przemyśl,2005,8.64
+Przemyśl,2006,8.65
+Przemyśl,2007,8.68
+Przemyśl,2008,8.75
+Przemyśl,2009,8.76
+Przemyśl,2010,8.79
+Przemyśl,2011,8.79
+Przemyśl,2012,8.77
+Przemyśl,2013,8.77
+Przemyśl,2014,8.79
+Przemyśl,2015,8.79
+Przemyśl,2016,8.78
+Przemyśl,2017,8.77
+Przemyśl,2018,8.77
+Przemyśl,2019,8.71
+Przemyśl,2020,8.6
+Przemyśl,2021,8.55
+Przemyśl,2022,8.51
+Racibórz,1995,65.04
+Racibórz,1996,64.96
+Racibórz,1997,64.52
+Racibórz,1998,64.27
+Racibórz,1999,60.74
+Racibórz,2000,60.13
+Racibórz,2001,59.61
+Racibórz,2002,59.29
+Racibórz,2003,58.78
+Racibórz,2004,58.31
+Racibórz,2005,57.76
+Racibórz,2006,57.17
+Racibórz,2007,56.92
+Racibórz,2008,56.73
+Racibórz,2009,56.48
+Racibórz,2010,56.35
+Racibórz,2011,56.25
+Racibórz,2012,56.08
+Racibórz,2013,55.93
+Racibórz,2014,55.71
+Racibórz,2015,55.49
+Racibórz,2016,55.4
+Racibórz,2017,55.19
+Racibórz,2018,54.88
+Racibórz,2019,54.74
+Racibórz,2020,51.38
+Racibórz,2021,50.74
+Racibórz,2022,50.13
+Radom,1995,7.04
+Radom,1996,7.11
+Radom,1997,7.12
+Radom,1998,7.1
+Radom,1999,6.98
+Radom,2000,7.02
+Radom,2001,7.08
+Radom,2002,7.08
+Radom,2003,7.06
+Radom,2004,7.07
+Radom,2005,7.11
+Radom,2006,7.14
+Radom,2007,7.18
+Radom,2008,7.23
+Radom,2009,7.25
+Radom,2010,7.37
+Radom,2011,7.38
+Radom,2012,7.41
+Radom,2013,7.38
+Radom,2014,7.43
+Radom,2015,7.45
+Radom,2016,7.38
+Radom,2017,7.38
+Radom,2018,7.33
+Radom,2019,7.29
+Radom,2020,6.97
+Radom,2021,6.93
+Radom,2022,6.84
+Rybnik,1995,144.58
+Rybnik,1996,144.88
+Rybnik,1997,144.94
+Rybnik,1998,144.58
+Rybnik,1999,143.56
+Rybnik,2000,143.22
+Rybnik,2001,142.82
+Rybnik,2002,142.74
+Rybnik,2003,142.27
+Rybnik,2004,141.76
+Rybnik,2005,141.58
+Rybnik,2006,141.39
+Rybnik,2007,141.08
+Rybnik,2008,141.18
+Rybnik,2009,141.37
+Rybnik,2010,141.04
+Rybnik,2011,140.94
+Rybnik,2012,140.79
+Rybnik,2013,140.17
+Rybnik,2014,140.05
+Rybnik,2015,139.6
+Rybnik,2016,139.25
+Rybnik,2017,139.13
+Rybnik,2018,138.7
+Rybnik,2019,138.1
+Rybnik,2020,134.05
+Rybnik,2021,132.92
+Rybnik,2022,131.74
+Siedlce,1995,12.69
+Siedlce,1996,12.8
+Siedlce,1997,12.89
+Siedlce,1998,12.98
+Siedlce,1999,12.86
+Siedlce,2000,12.95
+Siedlce,2001,13.03
+Siedlce,2002,13.16
+Siedlce,2003,13.26
+Siedlce,2004,13.31
+Siedlce,2005,13.36
+Siedlce,2006,13.39
+Siedlce,2007,13.46
+Siedlce,2008,13.54
+Siedlce,2009,13.59
+Siedlce,2010,13.82
+Siedlce,2011,13.94
+Siedlce,2012,14.02
+Siedlce,2013,14.13
+Siedlce,2014,14.2
+Siedlce,2015,14.24
+Siedlce,2016,14.33
+Siedlce,2017,14.4
+Siedlce,2018,14.5
+Siedlce,2019,14.5
+Siedlce,2020,14.34
+Siedlce,2021,14.34
+Siedlce,2022,14.36
+Skawina,1995,40.87
+Skawina,1996,41.15
+Skawina,1997,41.23
+Skawina,1998,41.43
+Skawina,1999,41.09
+Skawina,2000,41.11
+Skawina,2001,41.09
+Skawina,2002,41.12
+Skawina,2003,41.19
+Skawina,2004,41.26
+Skawina,2005,41.43
+Skawina,2006,41.48
+Skawina,2007,41.49
+Skawina,2008,41.71
+Skawina,2009,41.95
+Skawina,2010,42.69
+Skawina,2011,42.81
+Skawina,2012,43.01
+Skawina,2013,43.09
+Skawina,2014,43.14
+Skawina,2015,43.18
+Skawina,2016,43.35
+Skawina,2017,43.37
+Skawina,2018,43.5
+Skawina,2019,43.59
+Skawina,2020,43.95
+Skawina,2021,44.0
+Skawina,2022,44.03
+Słupsk,1995,102.6
+Słupsk,1996,102.46
+Słupsk,1997,102.45
+Słupsk,1998,102.37
+Słupsk,1999,100.32
+Słupsk,2000,100.39
+Słupsk,2001,100.04
+Słupsk,2002,99.53
+Słupsk,2003,99.25
+Słupsk,2004,98.76
+Słupsk,2005,98.7
+Słupsk,2006,98.09
+Słupsk,2007,97.42
+Słupsk,2008,97.33
+Słupsk,2009,97.09
+Słupsk,2010,96.02
+Słupsk,2011,95.54
+Słupsk,2012,94.85
+Słupsk,2013,93.94
+Słupsk,2014,93.21
+Słupsk,2015,92.5
+Słupsk,2016,91.94
+Słupsk,2017,91.47
+Słupsk,2018,91.01
+Słupsk,2019,90.68
+Słupsk,2020,88.06
+Słupsk,2021,87.12
+Słupsk,2022,86.37
+Sopot,1995,43.58
+Sopot,1996,43.36
+Sopot,1997,43.03
+Sopot,1998,42.78
+Sopot,1999,42.87
+Sopot,2000,42.35
+Sopot,2001,42.04
+Sopot,2002,41.41
+Sopot,2003,41.02
+Sopot,2004,40.55
+Sopot,2005,40.08
+Sopot,2006,39.62
+Sopot,2007,39.15
+Sopot,2008,38.82
+Sopot,2009,38.46
+Sopot,2010,38.86
+Sopot,2011,38.58
+Sopot,2012,38.22
+Sopot,2013,37.9
+Sopot,2014,37.65
+Sopot,2015,37.23
+Sopot,2016,36.85
+Sopot,2017,36.53
+Sopot,2018,36.05
+Sopot,2019,35.72
+Sopot,2020,33.13
+Sopot,2021,32.74
+Sopot,2022,32.28
+Sosnowiec,1995,247.5
+Sosnowiec,1996,246.31
+Sosnowiec,1997,244.09
+Sosnowiec,1998,244.1
+Sosnowiec,1999,235.66
+Sosnowiec,2000,234.49
+Sosnowiec,2001,233.2
+Sosnowiec,2002,231.54
+Sosnowiec,2003,229.99
+Sosnowiec,2004,228.19
+Sosnowiec,2005,226.03
+Sosnowiec,2006,224.24
+Sosnowiec,2007,222.59
+Sosnowiec,2008,221.26
+Sosnowiec,2009,219.3
+Sosnowiec,2010,216.96
+Sosnowiec,2011,215.26
+Sosnowiec,2012,213.51
+Sosnowiec,2013,211.28
+Sosnowiec,2014,209.27
+Sosnowiec,2015,207.38
+Sosnowiec,2016,205.87
+Sosnowiec,2017,204.01
+Sosnowiec,2018,202.04
+Sosnowiec,2019,199.97
+Sosnowiec,2020,194.44
+Sosnowiec,2021,191.68
+Sosnowiec,2022,189.18
+Starachowice,1995,57.33
+Starachowice,1996,57.53
+Starachowice,1997,57.38
+Starachowice,1998,57.08
+Starachowice,1999,55.28
+Starachowice,2000,55.03
+Starachowice,2001,54.72
+Starachowice,2002,54.46
+Starachowice,2003,54.02
+Starachowice,2004,53.76
+Starachowice,2005,53.34
+Starachowice,2006,52.97
+Starachowice,2007,52.61
+Starachowice,2008,52.32
+Starachowice,2009,51.88
+Starachowice,2010,52.51
+Starachowice,2011,52.09
+Starachowice,2012,51.7
+Starachowice,2013,51.16
+Starachowice,2014,50.68
+Starachowice,2015,50.36
+Starachowice,2016,49.94
+Starachowice,2017,49.51
+Starachowice,2018,48.97
+Starachowice,2019,48.4
+Starachowice,2020,46.44
+Starachowice,2021,45.68
+Starachowice,2022,44.99
+Strzelce Opolskie,1995,35.79
+Strzelce Opolskie,1996,35.66
+Strzelce Opolskie,1997,35.63
+Strzelce Opolskie,1998,35.53
+Strzelce Opolskie,1999,34.97
+Strzelce Opolskie,2000,34.8
+Strzelce Opolskie,2001,34.49
+Strzelce Opolskie,2002,34.3
+Strzelce Opolskie,2003,34.02
+Strzelce Opolskie,2004,33.75
+Strzelce Opolskie,2005,33.56
+Strzelce Opolskie,2006,33.33
+Strzelce Opolskie,2007,33.12
+Strzelce Opolskie,2008,33.01
+Strzelce Opolskie,2009,32.98
+Strzelce Opolskie,2010,31.83
+Strzelce Opolskie,2011,31.71
+Strzelce Opolskie,2012,31.52
+Strzelce Opolskie,2013,31.3
+Strzelce Opolskie,2014,31.19
+Strzelce Opolskie,2015,31.04
+Strzelce Opolskie,2016,30.94
+Strzelce Opolskie,2017,30.76
+Strzelce Opolskie,2018,30.69
+Strzelce Opolskie,2019,30.52
+Strzelce Opolskie,2020,29.78
+Strzelce Opolskie,2021,29.53
+Strzelce Opolskie,2022,29.28
+Suwałki,1995,66.62
+Suwałki,1996,67.25
+Suwałki,1997,67.74
+Suwałki,1998,68.33
+Suwałki,1999,68.61
+Suwałki,2000,68.89
+Suwałki,2001,68.85
+Suwałki,2002,69.03
+Suwałki,2003,69.01
+Suwałki,2004,69.11
+Suwałki,2005,69.27
+Suwałki,2006,69.25
+Suwałki,2007,69.28
+Suwałki,2008,69.55
+Suwałki,2009,69.5
+Suwałki,2010,69.25
+Suwałki,2011,69.21
+Suwałki,2012,69.4
+Suwałki,2013,69.32
+Suwałki,2014,69.32
+Suwałki,2015,69.37
+Suwałki,2016,69.63
+Suwałki,2017,69.55
+Suwałki,2018,69.83
+Suwałki,2019,69.76
+Suwałki,2020,69.27
+Suwałki,2021,68.84
+Suwałki,2022,68.53
+Szczecin,1995,418.16
+Szczecin,1996,418.83
+Szczecin,1997,418.99
+Szczecin,1998,416.99
+Szczecin,1999,416.79
+Szczecin,2000,416.66
+Szczecin,2001,415.75
+Szczecin,2002,415.12
+Szczecin,2003,414.03
+Szczecin,2004,411.9
+Szczecin,2005,411.12
+Szczecin,2006,409.07
+Szczecin,2007,407.81
+Szczecin,2008,406.94
+Szczecin,2009,406.31
+Szczecin,2010,410.25
+Szczecin,2011,409.6
+Szczecin,2012,408.91
+Szczecin,2013,408.17
+Szczecin,2014,407.18
+Szczecin,2015,405.66
+Szczecin,2016,404.88
+Szczecin,2017,403.88
+Szczecin,2018,402.47
+Szczecin,2019,401.91
+Szczecin,2020,397.29
+Szczecin,2021,394.48
+Szczecin,2022,391.57
+Szczecinek,1995,42.25
+Szczecinek,1996,42.34
+Szczecinek,1997,42.42
+Szczecinek,1998,42.35
+Szczecinek,1999,39.81
+Szczecinek,2000,39.65
+Szczecinek,2001,39.4
+Szczecinek,2002,39.09
+Szczecinek,2003,39.04
+Szczecinek,2004,38.93
+Szczecinek,2005,38.86
+Szczecinek,2006,38.63
+Szczecinek,2007,38.49
+Szczecinek,2008,38.23
+Szczecinek,2009,38.17
+Szczecinek,2010,40.86
+Szczecinek,2011,40.8
+Szczecinek,2012,40.72
+Szczecinek,2013,40.62
+Szczecinek,2014,40.54
+Szczecinek,2015,40.44
+Szczecinek,2016,40.36
+Szczecinek,2017,40.29
+Szczecinek,2018,40.11
+Szczecinek,2019,40.04
+Szczecinek,2020,38.49
+Szczecinek,2021,38.15
+Szczecinek,2022,37.9
+Tarnów,1995,121.93
+Tarnów,1996,122.36
+Tarnów,1997,121.73
+Tarnów,1998,121.49
+Tarnów,1999,120.43
+Tarnów,2000,120.82
+Tarnów,2001,120.09
+Tarnów,2002,119.56
+Tarnów,2003,118.67
+Tarnów,2004,118.27
+Tarnów,2005,117.56
+Tarnów,2006,116.97
+Tarnów,2007,116.12
+Tarnów,2008,115.52
+Tarnów,2009,115.16
+Tarnów,2010,114.18
+Tarnów,2011,113.59
+Tarnów,2012,112.95
+Tarnów,2013,112.12
+Tarnów,2014,111.38
+Tarnów,2015,110.64
+Tarnów,2016,110.11
+Tarnów,2017,109.65
+Tarnów,2018,109.06
+Tarnów,2019,108.47
+Tarnów,2020,106.6
+Tarnów,2021,105.01
+Tarnów,2022,103.96
+Toruń,1995,204.66
+Toruń,1996,205.12
+Toruń,1997,205.84
+Toruń,1998,206.16
+Toruń,1999,211.96
+Toruń,2000,210.19
+Toruń,2001,211.27
+Toruń,2002,210.7
+Toruń,2003,208.94
+Toruń,2004,208.28
+Toruń,2005,208.01
+Toruń,2006,207.19
+Toruń,2007,206.62
+Toruń,2008,206.01
+Toruń,2009,205.72
+Toruń,2010,205.13
+Toruń,2011,204.92
+Toruń,2012,204.3
+Toruń,2013,203.45
+Toruń,2014,203.16
+Toruń,2015,202.69
+Toruń,2016,202.52
+Toruń,2017,202.56
+Toruń,2018,202.07
+Toruń,2019,201.45
+Toruń,2020,198.8
+Toruń,2021,197.11
+Toruń,2022,195.69
+Trzebinia,1995,35.41
+Trzebinia,1996,35.37
+Trzebinia,1997,35.29
+Trzebinia,1998,35.18
+Trzebinia,1999,34.45
+Trzebinia,2000,34.4
+Trzebinia,2001,34.28
+Trzebinia,2002,34.19
+Trzebinia,2003,34.13
+Trzebinia,2004,34.09
+Trzebinia,2005,34.04
+Trzebinia,2006,33.96
+Trzebinia,2007,34.0
+Trzebinia,2008,34.03
+Trzebinia,2009,34.18
+Trzebinia,2010,34.5
+Trzebinia,2011,34.45
+Trzebinia,2012,34.45
+Trzebinia,2013,34.41
+Trzebinia,2014,34.26
+Trzebinia,2015,34.2
+Trzebinia,2016,34.18
+Trzebinia,2017,34.11
+Trzebinia,2018,34.0
+Trzebinia,2019,33.78
+Trzebinia,2020,33.13
+Trzebinia,2021,32.85
+Trzebinia,2022,32.6
+Tychy,1995,133.76
+Tychy,1996,133.65
+Tychy,1997,133.26
+Tychy,1998,133.18
+Tychy,1999,135.31
+Tychy,2000,133.46
+Tychy,2001,133.05
+Tychy,2002,132.55
+Tychy,2003,132.15
+Tychy,2004,131.55
+Tychy,2005,131.15
+Tychy,2006,130.49
+Tychy,2007,129.78
+Tychy,2008,129.48
+Tychy,2009,129.45
+Tychy,2010,129.51
+Tychy,2011,129.32
+Tychy,2012,129.11
+Tychy,2013,128.8
+Tychy,2014,128.62
+Tychy,2015,128.44
+Tychy,2016,128.35
+Tychy,2017,128.21
+Tychy,2018,127.83
+Tychy,2019,127.59
+Tychy,2020,125.22
+Tychy,2021,124.14
+Tychy,2022,123.11
+Ustroń,1995,15.79
+Ustroń,1996,15.87
+Ustroń,1997,15.95
+Ustroń,1998,15.97
+Ustroń,1999,15.43
+Ustroń,2000,15.47
+Ustroń,2001,15.32
+Ustroń,2002,15.46
+Ustroń,2003,15.37
+Ustroń,2004,15.42
+Ustroń,2005,15.44
+Ustroń,2006,15.43
+Ustroń,2007,15.42
+Ustroń,2008,15.47
+Ustroń,2009,15.49
+Ustroń,2010,15.93
+Ustroń,2011,15.98
+Ustroń,2012,16.0
+Ustroń,2013,16.0
+Ustroń,2014,16.07
+Ustroń,2015,16.01
+Ustroń,2016,16.07
+Ustroń,2017,16.11
+Ustroń,2018,16.05
+Ustroń,2019,16.07
+Ustroń,2020,16.15
+Ustroń,2021,16.04
+Ustroń,2022,16.01
+Wałbrzych,2003,128.81
+Wałbrzych,2004,127.57
+Wałbrzych,2005,126.47
+Wałbrzych,2006,124.99
+Wałbrzych,2007,123.64
+Wałbrzych,2008,122.41
+Wałbrzych,2009,121.36
+Wałbrzych,2010,121.15
+Wałbrzych,2011,119.96
+Wałbrzych,2012,119.17
+Warszawa,1995,1635.11
+Warszawa,1996,1628.51
+Warszawa,1997,1624.84
+Warszawa,1998,1618.47
+Warszawa,1999,1677.32
+Warszawa,2000,1672.42
+Warszawa,2001,1671.73
+Włocławek,1995,123.13
+Włocławek,1996,123.2
+Włocławek,1997,123.3
+Włocławek,1998,123.37
+Włocławek,1999,121.92
+Włocławek,2000,121.83
+Włocławek,2001,121.37
+Włocławek,2002,121.11
+Włocławek,2003,120.73
+Włocławek,2004,120.37
+Włocławek,2005,119.94
+Włocławek,2006,119.26
+Włocławek,2007,118.43
+Włocławek,2008,118.04
+Włocławek,2009,117.4
+Włocławek,2010,117.03
+Włocławek,2011,116.35
+Włocławek,2012,115.55
+Włocławek,2013,114.89
+Włocławek,2014,113.94
+Włocławek,2015,113.04
+Włocławek,2016,112.48
+Włocławek,2017,111.75
+Włocławek,2018,110.8
+Włocławek,2019,109.88
+Włocławek,2020,105.18
+Włocławek,2021,103.54
+Włocławek,2022,102.1
+Wrocław,1995,641.97
+Wrocław,1996,640.6
+Wrocław,1997,639.4
+Wrocław,1998,637.88
+Wrocław,1999,643.52
+Wrocław,2000,640.61
+Wrocław,2001,640.8
+Wrocław,2002,639.15
+Wrocław,2003,637.55
+Wrocław,2004,636.27
+Wrocław,2005,635.93
+Wrocław,2006,634.63
+Wrocław,2007,632.93
+Wrocław,2008,632.16
+Wrocław,2009,632.15
+Wrocław,2010,630.69
+Wrocław,2011,631.24
+Wrocław,2012,631.19
+Wrocław,2013,632.07
+Wrocław,2014,634.49
+Wrocław,2015,635.76
+Wrocław,2016,637.68
+Wrocław,2017,638.59
+Wrocław,2018,640.65
+Wrocław,2019,642.87
+Wrocław,2020,673.59
+Wrocław,2021,674.31
+Wrocław,2022,674.08
+Zabrze,1995,201.3
+Zabrze,1996,201.12
+Zabrze,1997,200.98
+Zabrze,1998,200.18
+Zabrze,1999,198.35
+Zabrze,2000,197.11
+Zabrze,2001,195.67
+Zabrze,2002,194.64
+Zabrze,2003,193.67
+Zabrze,2004,192.55
+Zabrze,2005,191.25
+Zabrze,2006,190.11
+Zabrze,2007,189.06
+Zabrze,2008,188.4
+Zabrze,2009,187.67
+Zabrze,2010,181.4
+Zabrze,2011,180.33
+Zabrze,2012,179.45
+Zabrze,2013,178.36
+Zabrze,2014,177.19
+Zabrze,2015,176.33
+Zabrze,2016,175.46
+Zabrze,2017,174.35
+Zabrze,2018,173.37
+Zabrze,2019,172.36
+Zabrze,2020,158.92
+Zabrze,2021,156.94
+Zabrze,2022,155.43
+Zakopane,1995,29.69
+Zakopane,1996,29.78
+Zakopane,1997,29.85
+Zakopane,1998,29.82
+Zakopane,1999,28.54
+Zakopane,2000,28.19
+Zakopane,2001,28.21
+Zakopane,2002,28.05
+Zakopane,2003,27.9
+Zakopane,2004,27.74
+Zakopane,2005,27.61
+Zakopane,2006,27.26
+Zakopane,2007,27.09
+Zakopane,2008,26.85
+Zakopane,2009,26.74
+Zakopane,2010,27.88
+Zakopane,2011,27.88
+Zakopane,2012,27.84
+Zakopane,2013,27.72
+Zakopane,2014,27.56
+Zakopane,2015,27.44
+Zakopane,2016,27.31
+Zakopane,2017,27.27
+Zakopane,2018,27.19
+Zakopane,2019,27.01
+Zakopane,2020,25.87
+Zakopane,2021,25.56
+Zakopane,2022,25.39
+Zamość,1995,9.61
+Zamość,1996,9.67
+Zamość,1997,9.64
+Zamość,1998,9.69
+Zamość,1999,9.59
+Zamość,2000,9.66
+Zamość,2001,9.64
+Zamość,2002,9.67
+Zamość,2003,9.63
+Zamość,2004,9.62
+Zamość,2005,9.58
+Zamość,2006,9.64
+Zamość,2007,9.64
+Zamość,2008,9.65
+Zamość,2009,9.66
+Zamość,2010,9.68
+Zamość,2011,9.65
+Zamość,2012,9.65
+Zamość,2013,9.65
+Zamość,2014,9.63
+Zamość,2015,9.66
+Zamość,2016,9.67
+Zamość,2017,9.68
+Zamość,2018,9.66
+Zamość,2019,9.68
+Zamość,2020,9.44
+Zamość,2021,9.36
+Zamość,2022,9.35
+Żary,1995,31.21
+Żary,1996,31.2
+Żary,1997,31.39
+Żary,1998,31.41
+Żary,1999,31.38
+Żary,2000,31.28
+Żary,2001,31.35
+Żary,2002,31.39
+Żary,2003,31.44
+Żary,2004,31.34
+Żary,2005,31.42
+Żary,2006,31.48
+Żary,2007,31.63
+Żary,2008,31.81
+Żary,2009,31.89
+Żary,2010,32.27
+Żary,2011,32.42
+Żary,2012,32.47
+Żary,2013,32.49
+Żary,2014,32.45
+Żary,2015,32.39
+Żary,2016,32.29
+Żary,2017,32.3
+Żary,2018,32.2
+Żary,2019,32.13
+Żary,2020,32.2
+Żary,2021,32.06
+Żary,2022,31.91
+Zawiercie,1995,56.02
+Zawiercie,1996,55.91
+Zawiercie,1997,55.83
+Zawiercie,1998,55.58
+Zawiercie,1999,54.62
+Zawiercie,2000,54.56
+Zawiercie,2001,54.13
+Zawiercie,2002,53.96
+Zawiercie,2003,53.64
+Zawiercie,2004,53.36
+Zawiercie,2005,53.07
+Zawiercie,2006,52.79
+Zawiercie,2007,52.44
+Zawiercie,2008,52.3
+Zawiercie,2009,51.96
+Zawiercie,2010,52.22
+Zawiercie,2011,51.88
+Zawiercie,2012,51.69
+Zawiercie,2013,51.26
+Zawiercie,2014,50.99
+Zawiercie,2015,50.64
+Zawiercie,2016,50.27
+Zawiercie,2017,49.91
+Zawiercie,2018,49.57
+Zawiercie,2019,49.2
+Zawiercie,2020,47.82
+Zawiercie,2021,47.22
+Zawiercie,2022,46.73
+Zgierz,1995,59.31
+Zgierz,1996,59.34
+Zgierz,1997,59.22
+Zgierz,1998,59.02
+Zgierz,1999,58.64
+Zgierz,2000,58.64
+Zgierz,2001,58.51
+Zgierz,2002,58.3
+Zgierz,2003,58.2
+Zgierz,2004,58.24
+Zgierz,2005,58.35
+Zgierz,2006,58.27
+Zgierz,2007,58.16
+Zgierz,2008,58.06
+Zgierz,2009,58.0
+Zgierz,2010,58.37
+Zgierz,2011,58.16
+Zgierz,2012,57.8
+Zgierz,2013,57.5
+Zgierz,2014,57.39
+Zgierz,2015,57.23
+Zgierz,2016,56.93
+Zgierz,2017,56.69
+Zgierz,2018,56.53
+Zgierz,2019,56.19
+Zgierz,2020,55.25
+Zgierz,2021,54.55
+Zgierz,2022,54.01
+Zielona Góra,1995,116.33
+Zielona Góra,1996,117.36
+Zielona Góra,1997,117.85
+Zielona Góra,1998,118.18
+Zielona Góra,1999,117.9
+Zielona Góra,2000,118.1
+Zielona Góra,2001,118.27
+Zielona Góra,2002,118.36
+Zielona Góra,2003,118.73
+Zielona Góra,2004,118.52
+Zielona Góra,2005,118.22
+Zielona Góra,2006,118.12
+Zielona Góra,2007,117.52
+Zielona Góra,2008,117.56
+Zielona Góra,2009,117.5
+Zielona Góra,2010,118.95
+Zielona Góra,2011,119.2
+Zielona Góra,2012,119.02
+Zielona Góra,2013,118.41
+Zielona Góra,2014,118.92
+Zielona Góra,2015,138.71
+Zielona Góra,2016,139.33
+Zielona Góra,2017,139.82
+Zielona Góra,2018,140.3
+Zielona Góra,2019,141.22
+Zielona Góra,2020,140.15
+Zielona Góra,2021,139.67
+Zielona Góra,2022,139.28
+Żyrardów,1995,43.5
+Żyrardów,1996,43.54
+Żyrardów,1997,43.57
+Żyrardów,1998,43.62
+Żyrardów,1999,41.86
+Żyrardów,2000,41.97
+Żyrardów,2001,41.83
+Żyrardów,2002,41.55
+Żyrardów,2003,41.55
+Żyrardów,2004,41.43
+Żyrardów,2005,41.23
+Żyrardów,2006,41.04
+Żyrardów,2007,41.05
+Żyrardów,2008,41.11
+Żyrardów,2009,41.14
+Żyrardów,2010,41.62
+Żyrardów,2011,41.53
+Żyrardów,2012,41.32
+Żyrardów,2013,41.1
+Żyrardów,2014,41.0
+Żyrardów,2015,40.65
+Żyrardów,2016,40.5
+Żyrardów,2017,40.24
+Żyrardów,2018,39.99
+Żyrardów,2019,39.83
+Żyrardów,2020,39.48
+Żyrardów,2021,39.07
+Żyrardów,2022,38.78
+Żywiec,1995,32.29
+Żywiec,1996,32.42
+Żywiec,1997,32.48
+Żywiec,1998,32.46
+Żywiec,1999,32.1
+Żywiec,2000,32.25
+Żywiec,2001,32.08
+Żywiec,2002,32.03
+Żywiec,2003,32.24
+Żywiec,2004,32.2
+Żywiec,2005,32.1
+Żywiec,2006,32.2
+Żywiec,2007,32.13
+Żywiec,2008,32.13
+Żywiec,2009,32.04
+Żywiec,2010,32.46
+Żywiec,2011,32.43
+Żywiec,2012,32.34
+Żywiec,2013,32.08
+Żywiec,2014,31.94
+Żywiec,2015,31.82
+Żywiec,2016,31.66
+Żywiec,2017,31.56
+Żywiec,2018,31.39
+Żywiec,2019,31.09
+Żywiec,2020,30.46
+Żywiec,2021,30.04
+Żywiec,2022,29.88
