@@ -1,0 +1,577 @@
+city,date,no_of_cars
+Jelenia Góra,2015,25
+Jelenia Góra,2016,28
+Jelenia Góra,2017,151
+Jelenia Góra,2018,186
+Jelenia Góra,2019,347
+Jelenia Góra,2020,365
+Jelenia Góra,2021,449
+Jelenia Góra,2022,619
+Biała Podlaska,2015,57
+Biała Podlaska,2016,57
+Biała Podlaska,2017,305
+Biała Podlaska,2018,335
+Biała Podlaska,2019,474
+Biała Podlaska,2020,551
+Biała Podlaska,2021,712
+Biała Podlaska,2022,908
+Białystok,2015,172
+Białystok,2016,260
+Białystok,2017,918
+Białystok,2018,1420
+Białystok,2019,2806
+Białystok,2020,3743
+Białystok,2021,5562
+Białystok,2022,7451
+Bielsko-Biała,2015,255
+Bielsko-Biała,2016,261
+Bielsko-Biała,2017,550
+Bielsko-Biała,2018,897
+Bielsko-Biała,2019,1399
+Bielsko-Biała,2020,1956
+Bielsko-Biała,2021,3467
+Bielsko-Biała,2022,4954
+Bydgoszcz,2015,1028
+Bydgoszcz,2016,1159
+Bydgoszcz,2017,1701
+Bydgoszcz,2018,2884
+Bydgoszcz,2019,4085
+Bydgoszcz,2020,5241
+Bydgoszcz,2021,7361
+Bydgoszcz,2022,9185
+Bydgoszcz,2015,658
+Bydgoszcz,2016,715
+Bydgoszcz,2017,1027
+Bydgoszcz,2018,1374
+Bydgoszcz,2019,2101
+Bydgoszcz,2020,2863
+Bydgoszcz,2021,4106
+Bydgoszcz,2022,5498
+Częstochowa,2015,26
+Częstochowa,2016,36
+Częstochowa,2017,478
+Częstochowa,2018,690
+Częstochowa,2019,1431
+Częstochowa,2020,1901
+Częstochowa,2021,2653
+Częstochowa,2022,3618
+Dąbrowa Górnicza,2015,32
+Dąbrowa Górnicza,2016,39
+Dąbrowa Górnicza,2017,251
+Dąbrowa Górnicza,2018,326
+Dąbrowa Górnicza,2019,692
+Dąbrowa Górnicza,2020,798
+Dąbrowa Górnicza,2021,989
+Dąbrowa Górnicza,2022,1242
+Dąbrowa Górnicza,2015,37
+Dąbrowa Górnicza,2016,50
+Dąbrowa Górnicza,2017,172
+Dąbrowa Górnicza,2018,249
+Dąbrowa Górnicza,2019,558
+Dąbrowa Górnicza,2020,671
+Dąbrowa Górnicza,2021,803
+Dąbrowa Górnicza,2022,1001
+Dąbrowa Górnicza,2015,133
+Dąbrowa Górnicza,2016,170
+Dąbrowa Górnicza,2017,483
+Dąbrowa Górnicza,2018,731
+Dąbrowa Górnicza,2019,1311
+Dąbrowa Górnicza,2020,1508
+Dąbrowa Górnicza,2021,1884
+Dąbrowa Górnicza,2022,2380
+Gdańsk,2015,3405
+Gdańsk,2016,3434
+Gdańsk,2017,3792
+Gdańsk,2018,4653
+Gdańsk,2019,6777
+Gdańsk,2020,9225
+Gdańsk,2021,13870
+Gdańsk,2022,19224
+Gdańsk,2015,31687
+Gdańsk,2016,31538
+Gdańsk,2017,31293
+Gdańsk,2018,31713
+Gdańsk,2019,32536
+Gdańsk,2020,33720
+Gdańsk,2021,35670
+Gdańsk,2022,37405
+Gdańsk,2015,6879
+Gdańsk,2016,6751
+Gdańsk,2017,6735
+Gdańsk,2018,6768
+Gdańsk,2019,6896
+Gdańsk,2020,6996
+Gdańsk,2021,7171
+Gdańsk,2022,7325
+Gdynia,2015,3405
+Gdynia,2016,3434
+Gdynia,2017,3792
+Gdynia,2018,4653
+Gdynia,2019,6777
+Gdynia,2020,9225
+Gdynia,2021,13870
+Gdynia,2022,19224
+Gdynia,2015,31687
+Gdynia,2016,31538
+Gdynia,2017,31293
+Gdynia,2018,31713
+Gdynia,2019,32536
+Gdynia,2020,33720
+Gdynia,2021,35670
+Gdynia,2022,37405
+Gdynia,2015,6879
+Gdynia,2016,6751
+Gdynia,2017,6735
+Gdynia,2018,6768
+Gdynia,2019,6896
+Gdynia,2020,6996
+Gdynia,2021,7171
+Gdynia,2022,7325
+Gliwice,2015,120
+Gliwice,2016,172
+Gliwice,2017,375
+Gliwice,2018,678
+Gliwice,2019,1379
+Gliwice,2020,1494
+Gliwice,2021,1806
+Gliwice,2022,2155
+Gliwice,2015,88
+Gliwice,2016,104
+Gliwice,2017,330
+Gliwice,2018,397
+Gliwice,2019,750
+Gliwice,2020,968
+Gliwice,2021,1360
+Gliwice,2022,1828
+Gorzów Wielkopolski,2015,1314
+Gorzów Wielkopolski,2016,1309
+Gorzów Wielkopolski,2017,1601
+Gorzów Wielkopolski,2018,1731
+Gorzów Wielkopolski,2019,1945
+Gorzów Wielkopolski,2020,2005
+Gorzów Wielkopolski,2021,2359
+Gorzów Wielkopolski,2022,2830
+Grudziądz,2015,28
+Grudziądz,2016,36
+Grudziądz,2017,154
+Grudziądz,2018,229
+Grudziądz,2019,346
+Grudziądz,2020,393
+Grudziądz,2021,523
+Grudziądz,2022,693
+Jastrzębie-Zdrój,2015,20
+Jastrzębie-Zdrój,2016,26
+Jastrzębie-Zdrój,2017,128
+Jastrzębie-Zdrój,2018,228
+Jastrzębie-Zdrój,2019,687
+Jastrzębie-Zdrój,2020,783
+Jastrzębie-Zdrój,2021,964
+Jastrzębie-Zdrój,2022,1254
+Jastrzębie-Zdrój,2015,58
+Jastrzębie-Zdrój,2016,68
+Jastrzębie-Zdrój,2017,272
+Jastrzębie-Zdrój,2018,522
+Jastrzębie-Zdrój,2019,987
+Jastrzębie-Zdrój,2020,1175
+Jastrzębie-Zdrój,2021,1377
+Jastrzębie-Zdrój,2022,1754
+Jastrzębie-Zdrój,2015,12
+Jastrzębie-Zdrój,2016,17
+Jastrzębie-Zdrój,2017,114
+Jastrzębie-Zdrój,2018,175
+Jastrzębie-Zdrój,2019,431
+Jastrzębie-Zdrój,2020,515
+Jastrzębie-Zdrój,2021,646
+Jastrzębie-Zdrój,2022,855
+Kalisz,2015,25
+Kalisz,2016,44
+Kalisz,2017,653
+Kalisz,2018,773
+Kalisz,2019,1068
+Kalisz,2020,1561
+Kalisz,2021,2582
+Kalisz,2022,3532
+Katowice,2015,60
+Katowice,2016,84
+Katowice,2017,201
+Katowice,2018,373
+Katowice,2019,670
+Katowice,2020,876
+Katowice,2021,1009
+Katowice,2022,1250
+Katowice,2015,468
+Katowice,2016,795
+Katowice,2017,1751
+Katowice,2018,3035
+Katowice,2019,5089
+Katowice,2020,7136
+Katowice,2021,11260
+Katowice,2022,15753
+Katowice,2015,20
+Katowice,2016,19
+Katowice,2017,118
+Katowice,2018,235
+Katowice,2019,753
+Katowice,2020,940
+Katowice,2021,1247
+Katowice,2022,1405
+Katowice,2015,42
+Katowice,2016,48
+Katowice,2017,214
+Katowice,2018,420
+Katowice,2019,817
+Katowice,2020,936
+Katowice,2021,1181
+Katowice,2022,1460
+Katowice,2015,4
+Katowice,2016,12
+Katowice,2017,78
+Katowice,2018,128
+Katowice,2019,397
+Katowice,2020,475
+Katowice,2021,616
+Katowice,2022,758
+Katowice,2015,7
+Katowice,2016,7
+Katowice,2017,54
+Katowice,2018,103
+Katowice,2019,217
+Katowice,2020,251
+Katowice,2021,339
+Katowice,2022,398
+Kielce,2015,579
+Kielce,2016,651
+Kielce,2017,1071
+Kielce,2018,1483
+Kielce,2019,2500
+Kielce,2020,3177
+Kielce,2021,4796
+Kielce,2022,6276
+Konin,2015,52
+Konin,2016,73
+Konin,2017,242
+Konin,2018,364
+Konin,2019,573
+Konin,2020,744
+Konin,2021,989
+Konin,2022,1276
+Koszalin,2015,106
+Koszalin,2016,129
+Koszalin,2017,376
+Koszalin,2018,556
+Koszalin,2019,1044
+Koszalin,2020,1381
+Koszalin,2021,1921
+Koszalin,2022,2553
+Kraków,2015,2472
+Kraków,2016,3007
+Kraków,2017,7883
+Kraków,2018,10093
+Kraków,2019,14529
+Kraków,2020,19172
+Kraków,2021,27621
+Kraków,2022,37067
+Krosno,2015,49
+Krosno,2016,47
+Krosno,2017,72
+Krosno,2018,90
+Krosno,2019,213
+Krosno,2020,277
+Krosno,2021,382
+Krosno,2022,506
+Legnica,2015,16
+Legnica,2016,22
+Legnica,2017,330
+Legnica,2018,438
+Legnica,2019,602
+Legnica,2020,716
+Legnica,2021,870
+Legnica,2022,1085
+Łódź,2015,186
+Łódź,2016,257
+Łódź,2017,1749
+Łódź,2018,2881
+Łódź,2019,5354
+Łódź,2020,7156
+Łódź,2021,11424
+Łódź,2022,15904
+Łomża,2015,42
+Łomża,2016,49
+Łomża,2017,330
+Łomża,2018,359
+Łomża,2019,621
+Łomża,2020,697
+Łomża,2021,851
+Łomża,2022,1022
+Lublin,2015,116
+Lublin,2016,172
+Lublin,2017,1768
+Lublin,2018,2192
+Lublin,2019,3608
+Lublin,2020,4526
+Lublin,2021,6560
+Lublin,2022,8810
+Nowy Sącz,2015,173
+Nowy Sącz,2016,180
+Nowy Sącz,2017,271
+Nowy Sącz,2018,515
+Nowy Sącz,2019,939
+Nowy Sącz,2020,1252
+Nowy Sącz,2021,1769
+Nowy Sącz,2022,2308
+Opole,2015,454
+Opole,2016,519
+Opole,2017,893
+Opole,2018,1263
+Opole,2019,2006
+Opole,2020,2637
+Opole,2021,3833
+Opole,2022,5225
+Płock,2015,495
+Płock,2016,546
+Płock,2017,670
+Płock,2018,856
+Płock,2019,1198
+Płock,2020,1573
+Płock,2021,2226
+Płock,2022,2769
+Poznań,2015,1279
+Poznań,2016,1380
+Poznań,2017,2751
+Poznań,2018,4731
+Poznań,2019,6898
+Poznań,2020,10231
+Poznań,2021,16384
+Poznań,2022,21109
+Przemyśl,2015,350
+Przemyśl,2016,359
+Przemyśl,2017,424
+Przemyśl,2018,459
+Przemyśl,2019,535
+Przemyśl,2020,566
+Przemyśl,2021,645
+Przemyśl,2022,755
+Radom,2015,108
+Radom,2016,127
+Radom,2017,507
+Radom,2018,929
+Radom,2019,1765
+Radom,2020,2286
+Radom,2021,3207
+Radom,2022,4322
+Rybnik,2015,20
+Rybnik,2016,26
+Rybnik,2017,128
+Rybnik,2018,228
+Rybnik,2019,687
+Rybnik,2020,783
+Rybnik,2021,964
+Rybnik,2022,1254
+Rybnik,2015,58
+Rybnik,2016,68
+Rybnik,2017,272
+Rybnik,2018,522
+Rybnik,2019,987
+Rybnik,2020,1175
+Rybnik,2021,1377
+Rybnik,2022,1754
+Rybnik,2015,12
+Rybnik,2016,17
+Rybnik,2017,114
+Rybnik,2018,175
+Rybnik,2019,431
+Rybnik,2020,515
+Rybnik,2021,646
+Rybnik,2022,855
+Rzeszów,2015,184
+Rzeszów,2016,221
+Rzeszów,2017,413
+Rzeszów,2018,885
+Rzeszów,2019,1733
+Rzeszów,2020,2571
+Rzeszów,2021,3780
+Rzeszów,2022,4992
+Siedlce,2015,21
+Siedlce,2016,42
+Siedlce,2017,149
+Siedlce,2018,224
+Siedlce,2019,567
+Siedlce,2020,739
+Siedlce,2021,1561
+Siedlce,2022,2312
+Słupsk,2015,28
+Słupsk,2016,32
+Słupsk,2017,887
+Słupsk,2018,952
+Słupsk,2019,1327
+Słupsk,2020,1401
+Słupsk,2021,1682
+Słupsk,2022,1895
+Sopot,2015,3405
+Sopot,2016,3434
+Sopot,2017,3792
+Sopot,2018,4653
+Sopot,2019,6777
+Sopot,2020,9225
+Sopot,2021,13870
+Sopot,2022,19224
+Sopot,2015,31687
+Sopot,2016,31538
+Sopot,2017,31293
+Sopot,2018,31713
+Sopot,2019,32536
+Sopot,2020,33720
+Sopot,2021,35670
+Sopot,2022,37405
+Sopot,2015,6879
+Sopot,2016,6751
+Sopot,2017,6735
+Sopot,2018,6768
+Sopot,2019,6896
+Sopot,2020,6996
+Sopot,2021,7171
+Sopot,2022,7325
+Sosnowiec,2015,32
+Sosnowiec,2016,39
+Sosnowiec,2017,251
+Sosnowiec,2018,326
+Sosnowiec,2019,692
+Sosnowiec,2020,798
+Sosnowiec,2021,989
+Sosnowiec,2022,1242
+Sosnowiec,2015,37
+Sosnowiec,2016,50
+Sosnowiec,2017,172
+Sosnowiec,2018,249
+Sosnowiec,2019,558
+Sosnowiec,2020,671
+Sosnowiec,2021,803
+Sosnowiec,2022,1001
+Sosnowiec,2015,133
+Sosnowiec,2016,170
+Sosnowiec,2017,483
+Sosnowiec,2018,731
+Sosnowiec,2019,1311
+Sosnowiec,2020,1508
+Sosnowiec,2021,1884
+Sosnowiec,2022,2380
+Suwałki,2015,19
+Suwałki,2016,23
+Suwałki,2017,100
+Suwałki,2018,137
+Suwałki,2019,290
+Suwałki,2020,404
+Suwałki,2021,552
+Suwałki,2022,717
+Szczecin,2015,273
+Szczecin,2016,445
+Szczecin,2017,1887
+Szczecin,2018,2650
+Szczecin,2019,4154
+Szczecin,2020,5480
+Szczecin,2021,7469
+Szczecin,2022,9847
+Tarnów,2015,7029
+Tarnów,2016,6975
+Tarnów,2017,6988
+Tarnów,2018,7111
+Tarnów,2019,7301
+Tarnów,2020,7443
+Tarnów,2021,7736
+Tarnów,2022,7969
+Toruń,2015,1028
+Toruń,2016,1159
+Toruń,2017,1701
+Toruń,2018,2884
+Toruń,2019,4085
+Toruń,2020,5241
+Toruń,2021,7361
+Toruń,2022,9185
+Toruń,2015,658
+Toruń,2016,715
+Toruń,2017,1027
+Toruń,2018,1374
+Toruń,2019,2101
+Toruń,2020,2863
+Toruń,2021,4106
+Toruń,2022,5498
+Tychy,2015,124
+Tychy,2016,148
+Tychy,2017,316
+Tychy,2018,675
+Tychy,2019,1232
+Tychy,2020,1847
+Tychy,2021,2733
+Tychy,2022,3556
+Wałbrzych,2015,12
+Wałbrzych,2016,17
+Wałbrzych,2017,14
+Wałbrzych,2018,94
+Wałbrzych,2019,324
+Wałbrzych,2020,413
+Wałbrzych,2021,462
+Wałbrzych,2022,586
+Warszawa,2015,7533
+Warszawa,2016,9405
+Warszawa,2017,15372
+Warszawa,2018,26033
+Warszawa,2019,44126
+Warszawa,2020,61706
+Warszawa,2021,92230
+Warszawa,2022,127818
+Włocławek,2015,36
+Włocławek,2016,88
+Włocławek,2017,241
+Włocławek,2018,359
+Włocławek,2019,661
+Włocławek,2020,843
+Włocławek,2021,1138
+Włocławek,2022,1448
+Wrocław,2015,44316
+Wrocław,2016,43998
+Wrocław,2017,46273
+Wrocław,2018,48394
+Wrocław,2019,51663
+Wrocław,2020,55384
+Wrocław,2021,62997
+Wrocław,2022,70523
+Zabrze,2015,120
+Zabrze,2016,172
+Zabrze,2017,375
+Zabrze,2018,678
+Zabrze,2019,1379
+Zabrze,2020,1494
+Zabrze,2021,1806
+Zabrze,2022,2155
+Zabrze,2015,88
+Zabrze,2016,104
+Zabrze,2017,330
+Zabrze,2018,397
+Zabrze,2019,750
+Zabrze,2020,968
+Zabrze,2021,1360
+Zabrze,2022,1828
+Zamość,2015,51
+Zamość,2016,60
+Zamość,2017,110
+Zamość,2018,138
+Zamość,2019,273
+Zamość,2020,325
+Zamość,2021,408
+Zamość,2022,521
+Zamość,2015,26
+Zamość,2016,27
+Zamość,2017,292
+Zamość,2018,306
+Zamość,2019,489
+Zamość,2020,548
+Zamość,2021,676
+Zamość,2022,852
+Zielona Góra,2015,165
+Zielona Góra,2016,283
+Zielona Góra,2017,644
+Zielona Góra,2018,995
+Zielona Góra,2019,1675
+Zielona Góra,2020,2251
+Zielona Góra,2021,3330
+Zielona Góra,2022,4449
