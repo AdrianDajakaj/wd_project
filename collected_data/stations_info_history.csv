@@ -1,0 +1,124 @@
+city,station_name,station_id,station_lat,station_lon,station_url,history_file
+Jelenia Góra,"Jelenia Góra - Ogińskiego, Poland",8135,50.91347,15.765659,poland/dolnoslaskie/jelenia-gora-oginskiego,jelenia-góra - ogińskiego-air-quality.csv
+Biała Podlaska,"Biała Podlaska, Poland",6479,52.0387126,23.1445026,poland/lublin/biala-podlaska,biała-podlaska-air-quality.csv
+Białystok,"Białystok-Miejska, Poland",6520,53.126815,23.1563701,poland/bialystok/bialystok-miejska,białystok-miejska-air-quality.csv
+Bielsko-Biała,"Bielsko-Biała, ul. Partyzantów, Poland",10544,49.802089,19.048629,poland/slaski/bielsko-biala--ul.-partyzantow,"bielsko-biała,-ul. partyzantów-air-quality.csv"
+Bielsko-Biała,"Bielsko-Biała, ul. Kossak-Szczuckiej 19, Poland",6535,49.813464,19.027318,poland/slaski/bielsko-biala--ul.-kossak-szczuckiej-19,"bielsko-biała,-ul. kossak-szczuckiej 19-air-quality.csv"
+Bydgoszcz,"Bydgoszcz-Warszawska, Poland",6524,53.133888888889,17.995555555556,poland/bydgoszcz/bydgoszcz-warszawska,bydgoszcz-warszawska-air-quality.csv
+Bydgoszcz,"airp. Bydgoszcz mobil, Poland",8119,53.126111111111,18.007222222222,poland/bydgoszcz/airp.-bydgoszcz-mobil,airp.-bydgoszcz mobil-air-quality.csv
+Bydgoszcz,"Bydgoszcz-Pl. Poznański, Poland",6523,53.121666666667,17.987777777778,poland/bydgoszcz/bydgoszcz-pl.-poznanski,bydgoszcz-pl.-poznański-air-quality.csv
+Cieszyn,"Cieszyn, ul. Mickiewicza 13, Poland",6538,49.738136,18.639069,poland/slaski/cieszyn--ul.-mickiewicza-13,"cieszyn,-ul. mickiewicza 13-air-quality.csv"
+Częstochowa,"Częstochowa, ul. Baczyńskiego 2, Poland",6536,50.836389,19.130111,poland/slaski/czestochowa--ul.-baczynskiego-2,"częstochowa,-ul. baczyńskiego 2-air-quality.csv"
+Częstochowa,"Częstochowa, Al. Armii Krajowej 3 (komunikacyjna), Poland",6537,50.817676,19.117426,poland/slaski/czestochowa--al.-armii-krajowej-3-komunikacyjna,"częstochowa,-al. armii krajowej 3 (komunikacyjna)-air-quality.csv"
+Dąbrowa Górnicza,"Dąbrowa Górnicza, ul. Tysiąclecia 25a, Poland",6541,50.32888889,19.23111111,poland/slaski/dabrowa-gornicza--ul.-tysiaclecia-25a,"dąbrowa-górnicza, ul. tysiąclecia 25a-air-quality.csv"
+Dębica,"Dębica-Grottgera-WIOS, Poland",13039,50.054786,21.416256,poland/podkarpacki/debica-grottgera-wios,"dębica-grottgera-wios-air-quality.csv"
+Dzierżoniów,"Dzierżoniów - Piłsudskiego, Poland",8126,50.732817,16.64805,poland/dolnoslaskie/dzierzoniow-pilsudskiego,dzierżoniów-- piłsudskiego-air-quality.csv
+Gdańsk,"Gdansk Srodmiescie, Gdansk, Poland",2677,54.353333333333,18.635277777778,poland/gdansk/gdansk-srodmiescie,"gdansk-srodmiescie, gdansk-air-quality.csv"
+Gdańsk,"Gdansk Stogi, Gdansk, Poland",2678,54.367777777778,18.701111111111,poland/gdansk/gdansk-stogi,"gdansk-stogi, gdansk-air-quality.csv"
+Gdańsk,"Gdansk Wrzeszcz, Gdansk, Poland",2684,54.380277777778,18.620277777778,poland/gdansk/gdansk-wrzeszcz,"gdansk-wrzeszcz, gdansk-air-quality.csv"
+Gdańsk,"Gdansk Nowy Port, Gdansk, Poland",2679,54.400833333333,18.6575,poland/gdansk/gdansk-nowy-port,"gdansk-nowy port, gdansk-air-quality.csv"
+Gdynia,"Gdynia Pogorze, Gdansk, Poland",2680,54.560833333333,18.493333333333,poland/gdansk/gdynia-pogorze,"gdynia-pogorze, gdansk-air-quality.csv"
+Gdynia,"Gdynia Dabrowa, Gdansk, Poland",2685,54.465555555556,18.464722222222,poland/gdansk/gdynia-dabrowa,"gdynia-dabrowa, gdansk-air-quality.csv"
+Gdynia,"Gdynia Srodmiescie, Gdansk, Poland",2686,54.525277777778,18.536388888889,poland/gdansk/gdynia-srodmiescie,"gdynia-srodmiescie, gdansk-air-quality.csv"
+Gliwice,"Gliwice, ul. Mewy 34, Poland",6539,50.279333,18.655764,poland/slaski/gliwice--ul.-mewy-34,"gliwice,-ul. mewy 34-air-quality.csv"
+Gorzów Wielkopolski,"Gorzów Wielkopolski, Poland",6560,52.73821389,15.22866667,poland/lubuski/gorzow-wielkopolski,gorzów-wielkopolski-air-quality.csv
+Grudziądz,"airp. Grudziądz, Poland",6527,53.493333333333,18.761944444444,poland/bydgoszcz/airp.-grudziadz,airp.-grudziądz-air-quality.csv
+Inowrocław,"airp. Inowrocław, Poland",6528,52.793055555556,18.240833333333,poland/bydgoszcz/airp.-inowroclaw,airp.-inowrocław-air-quality.csv
+Jarosław,"Jarosław-PWSTE-WIOS, Poland",13040,50.012083,22.674772,poland/podkarpacki/jaroslaw-pwste-wios,jarosław-pwste-wios-air-quality.csv
+Jasło,"Jasło ul. Sikorskiego, Poland",6563,49.74488611,21.45461667,poland/podkarpacki/jaslo-ul.-sikorskiego,jasło-ul. sikorskiego-air-quality.csv
+Jastrzębie-Zdrój,"jastrzebie-zdroj; Jastrzębie-Zdrój, Aleja Józefa Piłsudskiego (Harcerska 3), Poland",14909,49.952544,18.607953,poland/slaski/jastrzebie-zdroj--aleja-jozefa-pilsudskiego/harcerska-3,"jastrzębie-zdrój,-aleja józefa piłsudskiego (harcerska 3)-air-quality.csv"
+Kalisz,"Kalisz ul.Hanki Sawickiej, Poland",6534,51.74905278,18.04838889,poland/wielkopolski/kalisz-ul.hanki-sawickiej,kalisz-ul.hanki sawickiej-air-quality.csv
+Katowice,"Katowice, ul Kossutha 6, Poland",6540,50.264611,18.975028,poland/slaski/katowice--ul-kossutha-6,"katowice,-ul kossutha 6-air-quality.csv"
+Kielce,"Kielce, ul. Targowa 3, Poland",14911,50.878998,20.633692,poland/swietokrzyski/kielce--ul.-targowa-3,"kielce,-ul. targowa 3-air-quality.csv"
+Kielce,"Kielce ul. Jagiellońska, Poland",6553,50.8725,20.605,poland/swietokrzyski/kielce-ul.-jagiellonska,kielce-ul. jagiellońska-air-quality.csv
+Kłodzko,"Kłodzko - Szkolna, Poland",8133,50.43352222,16.65361389,poland/dolnoslaskie/klodzko-szkolna,kłodzko-- szkolna-air-quality.csv
+Konin,"Konin ul. Wyszyńskiego, Poland",6533,52.22563333,18.26903611,poland/wielkopolski/konin-ul.-wyszynskiego,konin ul.-wyszyńskiego-air-quality.csv
+Konstancin-Jeziorna,"Wierzejewskiego, Konstancin-Jeziorna, Mazowieckie, Poland",9449,52.080625,21.111186,poland/mazowieckie/konstancin-jeziorna/wierzejewskiego,"wierzejewskiego,-konstancin-jeziorna, mazowieckie-air-quality.csv"
+Kościerzyna,"Kościerzyna, Poland",6567,54.119948,17.97702,poland/pomorski/koscierzyna,kościerzyna-air-quality.csv
+Koszalin,"Koszalin ul. Armii Krajowej, Poland",6529,54.19398611,16.17254444,poland/szczecinie/koszalin-ul.-armii-krajowej,koszalin-ul. armii krajowej-air-quality.csv
+Kraków,"Aleja Krasińskiego, Kraków, Małopolska, Poland",3402,50.057678,19.926189,poland/malopolska/krakow/aleja-krasinskiego,"aleja-krasińskiego, kraków, małopolska-air-quality.csv"
+Kraków,"Kraków, ul. Złoty Róg, Małopolska, Poland",8691,50.081197,19.895358,poland/malopolska/krakow--ul.-zloty-rog,"kraków,-ul. złoty róg, małopolska-air-quality.csv"
+Kraków,"Kurdwanów, Kraków, Małopolska, Poland",3407,50.010575,19.949189,poland/malopolska/krakow/kurdwanow,"kurdwanów,-kraków, małopolska-air-quality.csv"
+Kraków,"Kraków, os. Piastów, Małopolska, Poland",9039,50.099361,20.018317,poland/malopolska/krakow--os.-piastow,"kraków,-os. piastów, małopolska-air-quality.csv"
+Kraków,"Kraków, os. Swoszowice, Małopolska, Poland",14683,49.991242,19.936117,poland/malopolska/krakow--os.-swoszowice,"kraków,-os. swoszowice, małopolska-air-quality.csv"
+Kraków,"Kraków-ul. Dietla, Małopolska, Poland",8689,50.057447,19.946008,poland/malopolska/krakow-ul.-dietla,"kraków-ul.-dietla, małopolska-air-quality.csv"
+Kraków,"Kraków, ul. Telimeny, Małopolska, Poland",10042,50.0192,20.016803,poland/malopolska/krakow--ul.-telimeny,"kraków,-ul. telimeny, małopolska-air-quality.csv"
+Krosno,"Krosno-Kletówki-WIOS, Poland",14678,49.690169,21.7497,poland/podkarpacki/krosno-kletowki-wios,krosno-kletówki-wios-air-quality.csv
+Lębork,"Lębork, Poland",6569,54.546219,17.74635,poland/pomorski/lebork,lębork-air-quality.csv
+Legionowo,"Zegrzyńska, Legionowo, Mazowieckie, Poland",4748,52.407648,20.955992,poland/mazowieckie/legionowo/zegrzynska,"zegrzyńska,-legionowo, mazowieckie-air-quality.csv"
+Legnica,"Legnica - Rzeczypospolitej, Poland",8130,51.2045203,16.180513,poland/dolnoslaskie/legnica-rzeczypospolitej,legnica-- rzeczypospolitej-air-quality.csv
+Łódź,"Łódź-Gdańska 16, Poland",8121,51.775411,19.4509,poland/lodz/lodz-gdanska-16,łódź-gdańska-16-air-quality.csv
+Łódź,"Łódź-Jana Pawła II 15, Poland",9038,51.754613,19.434925,poland/lodz/lodz-jana-pawla-ii-15,łódź-jana-pawła ii 15-air-quality.csv
+Łódź,"Łódź, ul. Zachodnia 40, Poland",6483,51.777685,19.4527981,poland/lodz/lodz--ul.-zachodnia-40,"łódź,-ul. zachodnia 40-air-quality.csv"
+Łódź,"Łódź-Kilińskiego komunikacyjna, Poland",8120,51.763801,19.467132,poland/lodz/lodz-kilinskiego-komunikacyjna,łódź-kilińskiego-komunikacyjna-air-quality.csv
+Łomża,"Łomża-Miejska, Poland",6521,53.1817812,22.0566504,poland/bialystok/lomza-miejska,łomża-miejska-air-quality.csv
+Lublin,"Lublin ul.Obywatelska, Poland",6480,51.258828,22.570467,poland/lublin/lublin-ul.obywatelska,lublin-ul.obywatelska-air-quality.csv
+Lubliniec,"Lubliniec, ul. Ks. Szymały, Poland",14915,50.675693,18.682065,poland/slaski/lubliniec--ul.-ks.-szymaly,"lubliniec,-ul. ks. szymały-air-quality.csv"
+Malbork,"Malbork, Poland",6568,54.031129,19.03278,poland/pomorski/malbork,malbork-air-quality.csv
+Mielec,"Mielec-Biernackiego-WIOS, Poland",9578,50.29912,21.44101,poland/podkarpacki/mielec-biernackiego-wios,mielec-biernackiego-wios-air-quality.csv
+Mielec,"Mielec-MOSIR-WIOS, Poland",8240,50.300761,21.434331,poland/podkarpacki/mielec-mosir-wios,mielec-mosir-wios-air-quality.csv
+Nisko,"Nisko ul. Szklarniowa, Poland",6564,50.52989167,22.11246667,poland/podkarpacki/nisko-ul.-szklarniowa,nisko-ul. szklarniowa-air-quality.csv
+Nowa Ruda,"Nowa Ruda - Jeziorna, Poland",14892,50.581521,16.498239,poland/dolnoslaskie/nowa-ruda-jeziorna,nowa-ruda - jeziorna-air-quality.csv
+Nowa Ruda,"Nowa Ruda - Srebrna, Poland",8125,50.579914,16.514422,poland/dolnoslaskie/nowa-ruda-srebrna,nowa-ruda - srebrna-air-quality.csv
+Nowy Sącz,"Nowy Sącz, Małopolska, Poland",3404,49.619281,20.714403,poland/malopolska/nowy-sacz,"nowy-sącz, małopolska-air-quality.csv"
+Nowy Targ,"Nowy Targ, Pl. Słowackiego, Małopolska, Poland",9040,49.483593,20.028785,poland/malopolska/nowy-targ--pl.-slowackiego,"nowy-targ, pl. słowackiego, małopolska-air-quality.csv"
+Nysa,"Nysa, ul. Rodziewiczówny, Poland",14907,50.4498159,17.33166168,poland/opolski/nysa--ul.-rodziewiczowny,"nysa,-ul. rodziewiczówny-air-quality.csv"
+Oława,"Oława - Żołnierzy AK, Poland",14891,50.942117,17.291315,poland/dolnoslaskie/olawa-zolnierzy-ak,oława-- żołnierzy ak-air-quality.csv
+Olkusz,"Olkusz,  Cegielniana, Krakow, Poland",14906,50.284,19.564044,poland/krakow/olkusz---cegielniana,"olkusz,- cegielniana, krakow-air-quality.csv"
+Olkusz,"Olkusz, Małopolska, Poland",3408,50.277569,19.569869,poland/malopolska/olkusz,"olkusz,-małopolska-air-quality.csv"
+Opole,"Opole, ul. Koszyka 21, Poland",14908,50.666736,17.899137,poland/opolski/opole--ul.-koszyka-21,"opole,-ul. koszyka 21-air-quality.csv"
+Opole,"Opole, Poland",6556,50.666736,17.899137,poland/opolski/opole,opole-air-quality.csv
+Oświęcim,"Oświęcim, ul. J. Bema, Małopolska, Poland",14680,50.032114,19.245392,poland/malopolska/oswiecim--ul.-j.-bema,"oświęcim,-ul. j. bema, małopolska-air-quality.csv"
+Otwock,"Brzozowa, Otwock, Mazowieckie, Poland",9037,52.115772,21.237078,poland/mazowieckie/otwock/brzozowa,"brzozowa,-otwock, mazowieckie-air-quality.csv"
+Pabianice,"Pabianice, ul. Konstantynowska, Poland",6486,51.667981,19.368683,poland/lodz/pabianice--ul.-konstantynowska,"pabianice,-ul. konstantynowska-air-quality.csv"
+Piastów,"Pułaskiego, Piastów, Mazowieckie, Poland",8280,52.191789,20.837494,poland/mazowieckie/piastow/pulaskiego,"pułaskiego,-piastów, mazowieckie-air-quality.csv"
+Piła,"Piła ul. Kusocińskiego, Poland",7961,53.15440833,16.75957222,poland/wielkopolski/pila-ul.-kusocinskiego,piła ul.-kusocińskiego-air-quality.csv
+Płock,"Gimnazjum, Płock, Mazowieckie, Poland",3878,52.556206,19.687706,poland/mazowieckie/plock/gimnazjum,"gimnazjum,-płock, mazowieckie-air-quality.csv"
+Płock,"Reja, Płock, Mazowieckie, Poland",3394,52.550564,19.707589,poland/mazowieckie/plock/reja,"reja,-płock, mazowieckie-air-quality.csv"
+Poznań,"Poznań 2 Ogród Botaniczny, Poland",6532,52.42031944,16.87728889,poland/wielkopolski/poznan-2-ogrod-botaniczny,poznań-2 ogród botaniczny-air-quality.csv
+Poznań,"Poznań 1 ul. Polanka, Poland",6531,52.398175,16.95951944,poland/wielkopolski/poznan-1-ul.-polanka,poznań-1 ul. polanka-air-quality.csv
+Poznań,"9.Poznań-Żelazna, Poland",11819,52.391778,16.99838888,poland/wielkopolski/9.poznan-zelazna,9.poznań-żelazna-air-quality.csv
+Przemyśl,"Przemyśl ul. Grunwaldzka, Poland",6565,49.78433889,22.75623889,poland/podkarpacki/przemysl-ul.-grunwaldzka,przemyśl-ul. grunwaldzka-air-quality.csv
+Racibórz,"Stacja mobilna Racibórz, ul. Wojska Polskiego, Poland",14917,50.091142,18.216261,poland/slaski/stacja-mobilna-raciborz--ul.-wojska-polskiego,"stacja-mobilna racibórz, ul. wojska polskiego-air-quality.csv"
+Radom,"Tochtermana, Radom, Mazowieckie, Poland",3393,51.399089,21.147484,poland/mazowieckie/radom/tochtermana,"tochtermana,-radom, mazowieckie-air-quality.csv"
+Rybnik,"Rybnik, ul. Borki 37a, Poland",6542,50.111181,18.516139,poland/slaski/rybnik--ul.-borki-37a,"rybnik,-ul. borki 37a-air-quality.csv"
+Rzeszów,"Rzeszów-Piłsudskiego-WIOS, Poland",13042,50.040711,22.004364,poland/podkarpacki/rzeszow-pilsudskiego-wios,rzeszów-piłsudskiego-wios-air-quality.csv
+Rzeszów,"Rzeszów ul. Rejtana, Poland",6562,50.02424167,22.010575,poland/podkarpacki/rzeszow-ul.-rejtana,rzeszów-ul. rejtana-air-quality.csv
+Siedlce,"Konarskiego, Siedlce, Mazowieckie, Poland",3397,52.172033,22.282236,poland/mazowieckie/siedlce/konarskiego,"konarskiego,-siedlce, mazowieckie-air-quality.csv"
+Skawina,"Skawina, Małopolska, Poland",3401,49.971047,19.830422,poland/malopolska/skawina,"skawina,-małopolska-air-quality.csv"
+Słupsk,"Słupsk, Poland",9335,54.463341,17.046677,poland/pomorski/slupsk,słupsk-air-quality.csv
+Sopot,"Sopot, Gdansk, Poland",2682,54.431666666667,18.579722222222,poland/gdansk/sopot,"sopot,-gdansk-air-quality.csv"
+Sosnowiec,"Sosnowiec, ul. Lubelska 51, Poland",6543,50.285956,19.184399,poland/slaski/sosnowiec--ul.-lubelska-51,"sosnowiec,-ul. lubelska 51-air-quality.csv"
+Starachowice,"Starachowice, ul. Złota, Poland",14913,51.050611,21.084175,poland/swietokrzyski/starachowice--ul.-zlota,"starachowice,-ul. złota-air-quality.csv"
+Strzelce Opolskie,"Strzelce Opolskie, ul.Kardynała Wyszyńskiego, Poland",12828,50.509334,18.288206,poland/opolski/strzelce-opolskie--ul.kardynala-wyszynskiego,"strzelce-opolskie, ul.kardynała wyszyńskiego-air-quality.csv"
+Suwałki,"Suwałki ul. Pułaskiego, Poland",11818,54.116056,22.93875,poland/bialystok/suwalki-ul.-pulaskiego,suwałki-ul. pułaskiego-air-quality.csv
+Suwałki,"Suwałki-Miejska, Poland",6522,54.118099,22.936034,poland/bialystok/suwalki-miejska,suwałki-miejska-air-quality.csv
+Szczecin,"Szczecin ul. Piłsudskiego, Poland",6799,53.43216944,14.5539,poland/szczecinie/szczecin-ul.-pilsudskiego,szczecin-ul. piłsudskiego-air-quality.csv
+Szczecin,"Szczecin ul. Łączna, Poland",8124,53.47088889,14.55625,poland/szczecinie/szczecin-ul.-laczna,szczecin-ul. łączna-air-quality.csv
+Szczecinek,"Szczecinek ul. Przemysłowa, Poland",6530,53.6989,16.70457222,poland/szczecinie/szczecinek-ul.-przemyslowa,szczecinek-ul. przemysłowa-air-quality.csv
+Tarnów,"Tarnów, Małopolska, Poland",3400,50.020169,21.004167,poland/malopolska/tarnow,"tarnów,-małopolska-air-quality.csv"
+Tarnów,"Tarnów-ul. Ks. Romana Sitko, Małopolska, Poland",8690,50.018263,20.99258,poland/malopolska/tarnow-ul.-ks.-romana-sitko,"tarnów-ul.-ks. romana sitko, małopolska-air-quality.csv"
+Toruń,"airp. Toruń, Poland",6797,53.012222222222,18.606111111111,poland/bydgoszcz/airp.-torun,airp.-toruń-air-quality.csv
+Toruń,"Toruń-Kaszownik, Poland",8118,53.0175,18.612777777778,poland/bydgoszcz/torun-kaszownik,toruń-kaszownik-air-quality.csv
+Toruń,"Toruń-Policja, Poland",6526,53.028611111111,18.665833333333,poland/bydgoszcz/torun-policja,toruń-policja-air-quality.csv
+Trzebinia,"Trzebinia, Małopolska, Poland",3406,50.159406,19.477464,poland/malopolska/trzebinia,"trzebinia,-małopolska-air-quality.csv"
+Tychy,"Tychy, ul. Tołstoja 1, Poland",6547,50.099903,18.990236,poland/slaski/tychy--ul.-tolstoja-1,"tychy,-ul. tołstoja 1-air-quality.csv"
+Ustroń,"Ustroń, Sanatoryjna 7, Poland",6548,49.71972222,18.82658333,poland/slaski/ustron--sanatoryjna-7,"ustroń,-sanatoryjna 7-air-quality.csv"
+Wałbrzych,"Wałbrzych - Wysockiego, Poland",8127,50.768729,16.269677,poland/dolnoslaskie/walbrzych-wysockiego,wałbrzych-- wysockiego-air-quality.csv
+Warszawa,"Marszałkowska, Warszawa, Mazowieckie, Poland",3399,52.225171,21.014783,poland/mazowieckie/warszawa/marszalkowska,"marszałkowska,-warszawa, mazowieckie-air-quality.csv"
+Warszawa,"Ursynów, Warszawa, Mazowieckie, Poland",3392,52.160838,21.033815,poland/mazowieckie/warszawa/ursynow,"ursynów,-warszawa, mazowieckie-air-quality.csv"
+Warszawa,"Targówek, Warszawa, Mazowieckie, Poland",3391,52.290915,21.042459,poland/mazowieckie/warszawa/targowek,"targówek,-warszawa, mazowieckie-air-quality.csv"
+Warszawa,"Komunikacyjna, Warszawa, Mazowieckie, Poland",3398,52.219339,21.0047,poland/mazowieckie/warszawa/komunikacyjna,"komunikacyjna,-warszawa, mazowieckie-air-quality.csv"
+Włocławek,"Włocławek-Okrzei, Poland",6525,52.658611111111,19.059166666667,poland/bydgoszcz/wloclawek-okrzei,włocławek-okrzei-air-quality.csv
+Wrocław,"Wrocław - Korzeniowskiego, Poland",8128,51.129378,17.02925,poland/dolnoslaskie/wroclaw-korzeniowskiego,wrocław-- korzeniowskiego-air-quality.csv
+Wrocław,"Wrocław - Wiśniowa, Poland",8129,51.086225,17.012689,poland/dolnoslaskie/wroclaw-wisniowa,wrocław-- wiśniowa-air-quality.csv
+Zabrze,"Zabrze, ul. Skłodowskiej-Curie 34, Poland",6549,50.3165,18.772375,poland/slaski/zabrze--ul.-sklodowskiej-curie-34,"zabrze,-ul. skłodowskiej-curie 34-air-quality.csv"
+Zakopane,"Zakopane, Małopolska, Poland",3405,49.293564,19.960083,poland/malopolska/zakopane,"zakopane,-małopolska-air-quality.csv"
+Zamość,"Zamość, Poland",6481,50.7230879,23.2519686,poland/lublin/zamosc,zamość-air-quality.csv
+Żary,"Żary, Poland",6559,51.64265556,15.12780833,poland/lubuski/zary,żary-air-quality.csv
+Zawiercie,"Zawiercie, ul. Gałczyńskiego, Poland",14918,50.493045,19.439012,poland/slaski/zawiercie--ul.-galczynskiego,"zawiercie,-ul. gałczyńskiego-air-quality.csv"
+Zgierz,"Zgierz, ul. Mielczarskiego 1, Poland",6489,51.856692,19.421231,poland/lodz/zgierz--ul.-mielczarskiego-1,"zgierz,-ul. mielczarskiego 1-air-quality.csv"
+Zielona Góra,"Zielona Góra, Poland",6561,51.93978333,15.51886111,poland/lubuski/zielona-gora,zielona-góra-air-quality.csv
+Żyrardów,"Roosevelta, Żyrardów, Mazowieckie, Poland",3395,52.053887,20.430009,poland/mazowieckie/zyrardow/roosevelta,"roosevelta,-żyrardów, mazowieckie-air-quality.csv"
+Żywiec,"Żywiec, ul. Kopernika 84, Poland",8281,49.671602,19.234446,poland/slaski/zywiec--ul.-kopernika-84,"żywiec,-ul. kopernika 84-air-quality.csv"
+Żywiec,"Żywiec, ul. Słowackiego 2, Poland",6546,49.688316666667,19.206033333333,poland/slaski/zywiec--ul.-slowackiego-2,"żywiec,-ul. słowackiego 2-air-quality.csv"
