@@ -25,13 +25,11 @@ def get_history(curr_url):
     # Wait for the page to load and for the download button to become clickable
     wait = WebDriverWait(driver, 60)
     try:
-        # Add appropriate XPATH or other method to locate the download button
-        # btn1 = wait.until(EC.element_to_be_clickable((By.XPATH, "/html/body/div[7]/div[1]/div[1]/div[5]/div[2]/div/center[1]/span[2]/div")))
-        # btn1.click()
+        btn1 = wait.until(EC.element_to_be_clickable((By.XPATH, "/html/body/div[7]/div[1]/div[1]/div[5]/div[2]/div/center[1]/span[2]/div")))
+        btn1.click()
 
-        # Optionally wait for another element to ensure download has started
-        # btn2 = wait.until(EC.element_to_be_clickable((By.XPATH, "/html/body/div[7]/div[1]/div[1]/div[5]/div[2]/div/center[1]/span[2]/div/center/div")))
-        # btn2.click()
+        btn2 = wait.until(EC.element_to_be_clickable((By.XPATH, "/html/body/div[7]/div[1]/div[1]/div[5]/div[2]/div/center[1]/span[2]/div/center/div")))
+        btn2.click()
 
         files_before = set(os.listdir(download_folder))
 
