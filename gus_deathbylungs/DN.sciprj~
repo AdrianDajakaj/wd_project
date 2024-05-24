@@ -1,0 +1,60 @@
+SciDAVis 2.2.8 project file
+<scripting-lang>	muParser
+<windows>	2
+<table>
+3843
+<table creation_time="2024-24-05 15:33:20:253" caption_spec="%n%C{ - }%c" name="Table1" columns="2" rows="30"><comment><![CDATA[]]></comment><column creation_time="2024-24-05 15:33:20:253" caption_spec="%n%C{ - }%c" name="1" type="TypeQString" mode="Text" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2024-24-05 15:35:34:779" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="SimpleCopyThroughFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2024-24-05 15:35:34:779" caption_spec="%n%C{ - }%c" name="OutputFilter" filter_name="SimpleCopyThroughFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeQString" index="0" invalid="no">2005</row><row type="TypeQString" index="1" invalid="no">2006</row><row type="TypeQString" index="2" invalid="no">2007</row><row type="TypeQString" index="3" invalid="no">2008</row><row type="TypeQString" index="4" invalid="no">2009</row><row type="TypeQString" index="5" invalid="no">2010</row><row type="TypeQString" index="6" invalid="no">2011</row><row type="TypeQString" index="7" invalid="no">2012</row><row type="TypeQString" index="8" invalid="no">2013</row><row type="TypeQString" index="9" invalid="no">2014</row><row type="TypeQString" index="10" invalid="no">2015</row><row type="TypeQString" index="11" invalid="no">2016</row><row type="TypeQString" index="12" invalid="no">2017</row><row type="TypeQString" index="13" invalid="no">2018</row><row type="TypeQString" index="14" invalid="no">2019</row><row type="TypeQString" index="15" invalid="no">2020</row><row type="TypeQString" index="16" invalid="no">2021</row><row type="TypeQString" index="17" invalid="no">2022</row></column><column creation_time="2024-24-05 15:33:20:253" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2024-24-05 15:33:58:712" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2024-24-05 15:33:58:712" caption_spec="%n%C{ - }%c" name="OutputFilter" format="f" digits="2" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">4.2000000000000002e+00</row><row type="TypeDouble" index="1" invalid="no">4.4000000000000004e+00</row><row type="TypeDouble" index="2" invalid="no">4.2999999999999998e+00</row><row type="TypeDouble" index="3" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">4.2000000000000002e+00</row><row type="TypeDouble" index="5" invalid="no">3.7000000000000002e+00</row><row type="TypeDouble" index="6" invalid="no">3.7999999999999998e+00</row><row type="TypeDouble" index="7" invalid="no">3.8999999999999999e+00</row><row type="TypeDouble" index="8" invalid="no">5.4000000000000004e+00</row><row type="TypeDouble" index="9" invalid="no">5.7999999999999998e+00</row><row type="TypeDouble" index="10" invalid="no">6.2999999999999998e+00</row><row type="TypeDouble" index="11" invalid="no">6.2000000000000002e+00</row><row type="TypeDouble" index="12" invalid="no">6.7999999999999998e+00</row><row type="TypeDouble" index="13" invalid="no">6.7999999999999998e+00</row><row type="TypeDouble" index="14" invalid="no">7.2999999999999998e+00</row><row type="TypeDouble" index="15" invalid="no">5.9000000000000004e+00</row><row type="TypeDouble" index="16" invalid="no">6.2000000000000002e+00</row><row type="TypeDouble" index="17" invalid="no">9.0000000000000000e+00</row></column><column_width column="0">120</column_width><column_width column="1">412</column_width></table>
+geometry	0	0	908	747	
+
+</table>
+<multiLayer>
+Graph1	1	1	piątek, 24 maja 2024 15:35:52 Środkowoeuropejski czas letni
+geometry	951	51	701	561	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	434	254
+Alignement	0	0
+<graph>
+ggeometry	7	7	670	478
+PlotTitle	 	#ff000000	4228
+<Antialiasing>1</Antialiasing>
+Background	#96ffffff	150
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles					
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	5124	4	5124	4
+TitleFont	MS Shell Dlg 2	15	75	0	0	0
+ScaleFont0	MS Shell Dlg 2	12	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	12	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	12	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	12	75	0	0	0
+AxisFont0	MS Shell Dlg 2	12	50	0	0	0
+AxisFont1	MS Shell Dlg 2	12	50	0	0	0
+AxisFont2	MS Shell Dlg 2	12	50	0	0	0
+AxisFont3	MS Shell Dlg 2	12	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Table1_1	Table1_2	0	1	#ffff0000	0	5	7	0	#ff000000	#ff000000	0	#ff000000	0	1	0	128		2	0	0	29	1
+scale	0	3	9	0	8	5	0	0
+scale	1	3	9	0	8	5	0	0
+scale	2	0	18	0	9	0	0	0
+scale	3	0	20	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	1;Table1_1	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+</graph>
+</multiLayer>
+<log>
+</log>
